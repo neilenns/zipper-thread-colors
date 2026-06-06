@@ -68,9 +68,6 @@
           const zipperIndex = new Map(
             (data.zippers || []).map((item) => [item.id, item]),
           );
-          const threadColorIndex = new Map(
-            (data.threadColors || []).map((item) => [item.id, item]),
-          );
           const tbody = document.querySelector("#mapping-table tbody");
 
           const headerRow = document.querySelector("#mapping-table thead tr");
@@ -97,20 +94,18 @@
             );
             row.appendChild(zipperCell);
 
-            const mappedThreadColors = mapping.threadColors || [];
+            const mappedThreadColors = mapping.threadColors || {};
             threadColumns.forEach((thread) => {
               const threadCell = document.createElement("td");
-              const matchedThreadColor = mappedThreadColors
-                .map((colorId) => threadColorIndex.get(colorId))
-                .find((color) => color?.thread === thread.id);
+              const matchedThreadColorId = mappedThreadColors[thread.id];
 
-              if (matchedThreadColor) {
+              if (matchedThreadColorId) {
                 threadCell.innerHTML = renderImageLink(
                   thread.imageFolder,
-                  matchedThreadColor.id,
-                  `${thread.link}#sku=${matchedThreadColor.id}`,
-                  matchedThreadColor.id.toUpperCase() || "Thread",
-                  matchedThreadColor.id.toUpperCase(),
+                  matchedThreadColorId,
+                  `${thread.link}#sku=${matchedThreadColorId}`,
+                  matchedThreadColorId.toUpperCase() || "Thread",
+                  matchedThreadColorId.toUpperCase(),
                 );
               } else {
                 threadCell.textContent = "—";
