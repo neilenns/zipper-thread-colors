@@ -17,6 +17,12 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v6
 
+      # This is required for cloudflare/wrangler-action to work
+      - name: Install pnpm
+        uses: pnpm/action-setup@v6
+        with:
+          run_install: false
+
       - name: Deploy to Cloudflare
         uses: cloudflare/wrangler-action@v3
         with:
