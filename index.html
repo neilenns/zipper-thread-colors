@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Zipper to Thread Mappings</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="page">
+      <header>
+        <h1>Zipper → Thread Mappings</h1>
+        <p>
+          Browse zipper images alongside their matching thread colors. Each
+          image links directly to the product page for faster selection.
+        </p>
+      </header>
+
+      <div class="table-wrap">
+        <table id="mapping-table" aria-label="Zipper to thread mapping table">
+          <thead>
+            <tr>
+              <th>Zipper</th>
+              <th>Thread 1</th>
+              <th>Thread 2</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+
+      <div id="status" class="status">Loading mapping data...</div>
+    </div>
+
+    <script>
+      async function renderMappings() {
+        const statusEl = document.getElementById("status");
+        try {
+          const response = await fetch("data.json");
+          if (!response.ok) throw new Error("Unable to load data.json.");
+          const data = await response.json();
+
+          const threadColumns = data.threads || [];
+          const zipperIndex = new Map(
+            (data.zippers || []).map((item) => [item.id, item]),
+          );
+          const threadColorIndex = new Map(
+            (data.threadColors || []).map((item) => [item.id, item]),
+          );
+          const tbody = document.querySelector("#mapping-table tbody");
+
+          const headerRow = document.querySelector("#mapping-table thead tr");
+          headerRow.innerHTML =
+            "<th>Zipper</th>" +
+            threadColumns.map((thread) => `<th>${thread.name}</th>`).join("");
+
+          if (!data.mappings?.length) {
+            statusEl.textContent = "No mappings found in data.json.";
+            return;
+          }
+
+          data.mappings.forEach((mapping) => {
+            const zipper = zipperIndex.get(mapping.zipper);
+            const row = document.createElement("tr");
+
+            const zipperCell = document.createElement("td");
+            zipperCell.innerHTML = renderImageLink(
+              zipper?.id,
+              zipper?.link,
+              zipper?.color || "Zipper",
+              zipper?.color,
+            );
+            row.appendChild(zipperCell);
+
+            const mappedThreadColors = mapping.threadColors || [];
+            threadColumns.forEach((thread) => {
+              const threadCell = document.createElement("td");
+              const matchedThreadColor = mappedThreadColors
+                .map((colorId) => threadColorIndex.get(colorId))
+                .find((color) => color?.thread === thread.id);
+
+              if (matchedThreadColor) {
+                threadCell.innerHTML = renderImageLink(
+                  matchedThreadColor.id,
+                  matchedThreadColor.link,
+                  matchedThreadColor.color || "Thread",
+                );
+              } else {
+                threadCell.textContent = "—";
+                threadCell.style.color = "#7d8597";
+              }
+              row.appendChild(threadCell);
+            });
+
+            tbody.appendChild(row);
+          });
+
+          statusEl.textContent = `${data.mappings.length} mapping(s) loaded.`;
+        } catch (error) {
+          if (location.protocol === "file:") {
+            statusEl.innerHTML = `<span class="error">Cannot load data.json from file://. Run a local HTTP server and open via http://localhost.</span>`;
+          } else {
+            statusEl.innerHTML = `<span class="error">${error.message}</span>`;
+          }
+        }
+      }
+
+      function renderImageLink(id, link, altText, caption) {
+        if (!link) {
+          return '<span style="color:#7d8597">Missing link</span>';
+        }
+        return `
+          <a class="image-link" href="${link}" target="_blank" rel="noopener noreferrer">
+            <picture>
+              <source srcset="images/${id}.webp" type="image/webp" />
+              <img src="images/${id}.jpg" alt="${altText}" loading="lazy" />
+            </picture>
+            ${caption ? `<div class="image-caption">${caption}</div>` : ""}
+          </a>
+        `;
+      }
+
+      renderMappings();
+    </script>
+  </body>
+</html>

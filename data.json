@@ -1,0 +1,686 @@
+{
+  "mappings": [
+    { "zipper": "bz526wh", "threadColors": ["gtda800", "gtdp800"] },
+    { "zipper": "bz526na", "threadColors": ["gtda169", "gtdp169"] },
+    { "zipper": "bz526be", "threadColors": ["gtda208", "gtdp208"] },
+    { "zipper": "bz526ca", "threadColors": ["gtda180", "gtdp180"] },
+    { "zipper": "bz526ye", "threadColors": ["gtda3897", "gtdp3897"] },
+    { "zipper": "bz526or", "threadColors": ["gtda351", "gtdp351"] },
+    { "zipper": "bz526ru", "threadColors": ["gtda368", "gtdp368"] },
+    { "zipper": "bz526pk", "threadColors": ["gtda1452", "gtdp1452"] },
+    { "zipper": "bz526re", "threadColors": ["gtda367", "gtdp367"] },
+    { "zipper": "bz526wi", "threadColors": ["gtda369", "gtdp369"] },
+    { "zipper": "bz526lgn", "threadColors": ["gtda4061", "gtdp4061"] },
+    { "zipper": "bz526gn", "threadColors": ["gtda472", "gtdp472"] },
+    { "zipper": "bz526ag", "threadColors": ["gtda269", "gtdp269"] },
+    { "zipper": "bz526lb", "threadColors": ["gtda6227", "gtdp6227"] },
+    { "zipper": "bz526ro", "threadColors": ["gtda309", "gtdp309"] },
+    { "zipper": "bz526mb", "threadColors": ["gtda13", "gtdp13"] },
+    { "zipper": "bz526nv", "threadColors": ["gtda665", "gtdp665"] },
+    { "zipper": "bz526la", "threadColors": ["gtda391", "gtdp391"] },
+    { "zipper": "bz526pu", "threadColors": ["gtda810", "gtdp810"] },
+    { "zipper": "bz526lg", "threadColors": ["gtda493", "gtdp493"] },
+    { "zipper": "bz526mg", "threadColors": ["gtda2738", "gtdp2738"] },
+    { "zipper": "bz526dg", "threadColors": ["gtda141", "gtdp141"] },
+    { "zipper": "bz526lbr", "threadColors": ["gtda252", "gtdp252"] },
+    { "zipper": "bz526mbr", "threadColors": ["gtda1213", "gtdp1213"] },
+    { "zipper": "bz526dbr", "threadColors": ["gtda682", "gtdp682"] },
+    { "zipper": "bz526bk", "threadColors": ["gtda1274", "gtdp1274"] },
+    { "zipper": "bz526gr", "threadColors": ["gtda1254", "gtdp1254"] },
+    { "zipper": "bz526iv", "threadColors": ["gtda4567", "gtdp4567"] },
+    { "zipper": "bz52689", "threadColors": ["gtda488", "gtdp488"] },
+    { "zipper": "bz526125", "threadColors": ["gtda2507", "gtdp2507"] },
+    { "zipper": "bz526kh", "threadColors": ["gtda160", "gtdp160"] },
+    { "zipper": "bz52687", "threadColors": ["gtda1336", "gtdp1336"] },
+    { "zipper": "bz526521", "threadColors": ["gtda587", "gtdp587"] },
+    { "zipper": "bz526274", "threadColors": ["gtda991", "gtdp991"] },
+    { "zipper": "bz526813", "threadColors": ["gtda80", "gtdp80"] },
+    { "zipper": "bz526341", "threadColors": ["gtda2355", "gtdp2355"] },
+    { "zipper": "bz526516", "threadColors": ["gtda382", "gtdp382"] },
+    { "zipper": "bz526354", "threadColors": ["gtda4064", "gtdp4064"] },
+    { "zipper": "bz526820", "threadColors": ["gtda156", "gtdp156"] },
+    { "zipper": "bz526520", "threadColors": ["gtda369", "gtdp369"] },
+    { "zipper": "bz526y0997", "threadColors": ["gtda517", "gtdp517"] },
+    { "zipper": "bz52621", "threadColors": ["gtda5039", "gtdp5039"] },
+    { "zipper": "bz526z122", "threadColors": ["gtda2762", "gtdp2762"] },
+    { "zipper": "bz526536", "threadColors": ["gtda833", "gtdp833"] },
+    { "zipper": "bz526528", "threadColors": ["gtda920", "gtdp920"] },
+    { "zipper": "bz526544", "threadColors": ["gtda28", "gtdp28"] },
+    { "zipper": "bz526548", "threadColors": ["gtda55", "gtdp55"] },
+    { "zipper": "bz526877", "threadColors": ["gtda189", "gtdp189"] },
+    { "zipper": "bz526840", "threadColors": ["gtda764", "gtdp764"] },
+    { "zipper": "bz526264", "threadColors": ["gtda9679", "gtdp9679"] },
+    { "zipper": "bz526918", "threadColors": ["gtda4943", "gtdp4943"] },
+    { "zipper": "bz52658", "threadColors": ["gtda387", "gtdp387"] },
+    { "zipper": "bz526552", "threadColors": ["gtda3904", "gtdp3904"] },
+    { "zipper": "bz526y0998", "threadColors": ["gtda9528", "gtdp9528"] },
+    { "zipper": "bz526867", "threadColors": ["gtda32", "gtdp32"] },
+    { "zipper": "bz526303", "threadColors": ["gtda5117", "gtdp5117"] },
+    { "zipper": "bz52629", "threadColors": ["gtda463", "gtdp463"] },
+    { "zipper": "bz526810", "threadColors": ["gtda209", "gtdp209"] },
+    { "zipper": "bz526568", "threadColors": ["gtda406", "gtdp406"] },
+    { "zipper": "bz526326", "threadColors": ["gtda799", "gtdp799"] },
+    { "zipper": "bz526916", "threadColors": ["gtda1348", "gtdp1348"] }
+  ],
+  "zippers": [
+    {
+      "id": "bz526wh",
+      "color": "White/501",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526wh"
+    },
+    {
+      "id": "bz526na",
+      "color": "Natural/801",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526na"
+    },
+    {
+      "id": "bz526be",
+      "color": "Beige/572",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526be"
+    },
+    {
+      "id": "bz526ca",
+      "color": "Camel/007",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526ca"
+    },
+    {
+      "id": "bz526ye",
+      "color": "Yellow/503",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526ye"
+    },
+    {
+      "id": "bz526or",
+      "color": "Orange/849",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526or"
+    },
+    {
+      "id": "bz526ru",
+      "color": "Rust/073",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526ru"
+    },
+    {
+      "id": "bz526pk",
+      "color": "Pink/512",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526pk"
+    },
+    {
+      "id": "bz526re",
+      "color": "Red/519",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526re"
+    },
+    {
+      "id": "bz526wi",
+      "color": "Wine/527",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526wi"
+    },
+    {
+      "id": "bz526lgn",
+      "color": "Light Green/874",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526lgn"
+    },
+    {
+      "id": "bz526gn",
+      "color": "Green/530",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526gn"
+    },
+    {
+      "id": "bz526ag",
+      "color": "Army Green/566",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526ag"
+    },
+    {
+      "id": "bz526lb",
+      "color": "Light Blue/542",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526lb"
+    },
+    {
+      "id": "bz526ro",
+      "color": "Royal Blue/558",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526ro"
+    },
+    {
+      "id": "bz526mb",
+      "color": "Medium Blue/839",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526mb"
+    },
+    {
+      "id": "bz526nv",
+      "color": "Navy/560",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526nv"
+    },
+    {
+      "id": "bz526la",
+      "color": "Lavender/553",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+    },
+    {
+      "id": "bz526lg",
+      "color": "Light Grey/576",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526lg"
+    },
+    {
+      "id": "bz526mg",
+      "color": "Med. Grey/577",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526mg"
+    },
+    {
+      "id": "bz526dg",
+      "color": "Dark Grey/578",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526dg"
+    },
+    {
+      "id": "bz526lbr",
+      "color": "Light Brown/563",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526lbr"
+    },
+    {
+      "id": "bz526mbr",
+      "color": "Med. Brown/569",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526mbr"
+    },
+    {
+      "id": "bz526dbr",
+      "color": "Dark Brown/868",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526dbr"
+    },
+    {
+      "id": "bz526bk",
+      "color": "Black/580",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526bk"
+    },
+    {
+      "id": "u6Jt2fM8Vr",
+      "color": "Graphite/156",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+    },
+    {
+      "id": "z1Bp7qS4Xn",
+      "color": "Bridal Ivory/841",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+    },
+    {
+      "id": "p4Lm9vA2Qx",
+      "color": "Buttercup",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+    },
+    {
+      "id": "s7Rn3pW8Kd",
+      "color": "Cream",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+    },
+    {
+      "id": "t2Jt6fM5Vs",
+      "color": "Khaki/573",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+    },
+    {
+      "id": "y8Bp1qS9Xn",
+      "color": "Gold",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+    },
+    {
+      "id": "c3Lm7vA4Qx",
+      "color": "Peach",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+    },
+    {
+      "id": "v9Rn2pW6Kd",
+      "color": "Dusty Rose",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+    },
+    {
+      "id": "a5Jt8fM1Vs",
+      "color": "Salmon",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+    },
+    {
+      "id": "q1Bp4qS7Xn",
+      "color": "Petunia",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+    },
+    {
+      "id": "r6Lm3vA9Qx",
+      "color": "Hot Pink",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+    },
+    {
+      "id": "x2Rn8pW5Kd",
+      "color": "Watermelon",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+    },
+    {
+      "id": "n7Jt1fM4Vs",
+      "color": "Fire Red",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+    },
+    {
+      "id": "j3Bp9qS6Xn",
+      "color": "Deep Red",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+    },
+    {
+      "id": "w8Lm2vA1Qx",
+      "color": "Deep Fuschia",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+    },
+    {
+      "id": "e1Rn7pW3Kd",
+      "color": "Cranberry",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+    },
+    {
+      "id": "g6Jt4fM9Vs",
+      "color": "Eggplant",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+    },
+    {
+      "id": "o2Bp8qS5Xn",
+      "color": "Spring Green",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+    },
+    {
+      "id": "i9Lm1vA7Qx",
+      "color": "Clover",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+    },
+    {
+      "id": "d4Rn6pW2Kd",
+      "color": "Blue Frost",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+    },
+    {
+      "id": "f8Jt3fM1Vs",
+      "color": "Aqua",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+    },
+    {
+      "id": "l2Bp9qS4Xn",
+      "color": "Jade",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+    },
+    {
+      "id": "u7Lm5vA8Qx",
+      "color": "Teal",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+    },
+    {
+      "id": "z3Rn1pW6Kd",
+      "color": "Periwinkle",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+    },
+    {
+      "id": "p8Jt2fM4Vs",
+      "color": "Indigo",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+    },
+    {
+      "id": "s1Bp7qS9Xn",
+      "color": "Midnight",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+    },
+    {
+      "id": "t6Lm3vA5Qx",
+      "color": "Light Lilac",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+    },
+    {
+      "id": "y2Rn8pW1Kd",
+      "color": "Lilac",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+    },
+    {
+      "id": "c7Jt4fM6Vs",
+      "color": "Grape",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+    },
+    {
+      "id": "v1Bp9qS3Xn",
+      "color": "Royal Purple",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+    },
+    {
+      "id": "a6Lm2vA8Qx",
+      "color": "Violet",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+    },
+    {
+      "id": "q3Rn5pW7Kd",
+      "color": "Gabardine",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+    },
+    {
+      "id": "r9Jt1fM2Vs",
+      "color": "Chocolate",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+    },
+    {
+      "id": "x4Bp8qS6Xn",
+      "color": "Pewter",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+    },
+    {
+      "id": "n1Lm7vA3Qx",
+      "color": "Charcoal",
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+    }
+  ],
+  "threadColors": [
+    {
+      "id": "gtda800",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda800"
+    },
+    {
+      "id": "gtda169",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda169"
+    },
+    {
+      "id": "gtda208",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda208"
+    },
+    {
+      "id": "gtda180",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda180"
+    },
+    {
+      "id": "gtda3897",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda3897"
+    },
+    {
+      "id": "gtda351",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda351"
+    },
+    {
+      "id": "gtda368",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda368"
+    },
+    {
+      "id": "c2Lm9Qx4Ps",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda1452"
+    },
+    {
+      "id": "gtda1452",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda367"
+    },
+    {
+      "id": "gtda369",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda369"
+    },
+    {
+      "id": "gtda517",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda517"
+    },
+    {
+      "id": "w6Fp1Qm9Xs",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda4061"
+    },
+    {
+      "id": "gtda472",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda472"
+    },
+    {
+      "id": "gtda269",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda269"
+    },
+    {
+      "id": "gtda6227",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda6227"
+    },
+    {
+      "id": "gtda309",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda309"
+    },
+    {
+      "id": "gtda13",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda13"
+    },
+    {
+      "id": "gtda665",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda665"
+    },
+    {
+      "id": "gtda391",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda391"
+    },
+    {
+      "id": "gtda810",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda810"
+    },
+    {
+      "id": "gtda493",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda493"
+    },
+    {
+      "id": "a9Fp7Qx2Ls",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda2738"
+    },
+    {
+      "id": "gtda141",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda141"
+    },
+    {
+      "id": "gtda252",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda252"
+    },
+    {
+      "id": "gtda1213",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda1213"
+    },
+    {
+      "id": "gtda682",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda682"
+    },
+    {
+      "id": "gtda1274",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda1274"
+    },
+    {
+      "id": "gtda1254",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda1254"
+    },
+    {
+      "id": "gtda4567",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda4567"
+    },
+    {
+      "id": "c6Ks1Lp9Rw",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda488"
+    },
+    {
+      "id": "v8Nc3Qp2Xt",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda2507"
+    },
+    {
+      "id": "gtda160",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda160"
+    },
+    {
+      "id": "k2Fp7Wc8Vr",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda1336"
+    },
+    {
+      "id": "t9Lp4Qm1Xs",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda587"
+    },
+    {
+      "id": "gtda991",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda991"
+    },
+    {
+      "id": "gtda80",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda80"
+    },
+    {
+      "id": "n7Fp2Wc5Vr",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda2355"
+    },
+    {
+      "id": "gtda382",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda382"
+    },
+    {
+      "id": "w8Nc4Qm2Fr",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda4064"
+    },
+    {
+      "id": "gtda156",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda156"
+    },
+    {
+      "id": "gtda517",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda517"
+    },
+    {
+      "id": "gtda5039",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda5039"
+    },
+    {
+      "id": "d1Qm8Ks7Fr",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda2762"
+    },
+    {
+      "id": "gtda833",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda833"
+    },
+    {
+      "id": "gtda920",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda920"
+    },
+    {
+      "id": "gtda28",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda28"
+    },
+    {
+      "id": "z8Nc4Lp7Fr",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda55"
+    },
+    {
+      "id": "gtda189",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda189"
+    },
+    {
+      "id": "gtda764",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda764"
+    },
+    {
+      "id": "gtda9679",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda9679"
+    },
+    {
+      "id": "s3Nc7Qm1Xp",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda4943"
+    },
+    {
+      "id": "gtda387",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda387"
+    },
+    {
+      "id": "gtda3904",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda3904"
+    },
+    {
+      "id": "gtda9528",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda9528"
+    },
+    {
+      "id": "gtda32",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda32"
+    },
+    {
+      "id": "gtda5117",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda5117"
+    },
+    {
+      "id": "gtda463",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda463"
+    },
+    {
+      "id": "gtda209",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda209"
+    },
+    {
+      "id": "gtda406",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda406"
+    },
+    {
+      "id": "gtda799",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda799"
+    },
+    {
+      "id": "gtda1348",
+      "thread": "dXbmh2GsBH",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=gtda1348"
+    }
+  ],
+  "threads": [
+    {
+      "id": "dXbmh2GsBH",
+      "name": "Gutermann Mara 100",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/"
+    },
+    {
+      "id": "s0rjnDcHqx",
+      "name": "Gutermann Mara 70",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-70-poly-wrapped-poly-core-thread-tex-40/"
+    }
+  ]
+}
