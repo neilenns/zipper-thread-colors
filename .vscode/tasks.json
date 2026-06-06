@@ -1,0 +1,26 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Start Wrangler Dev",
+      "type": "shell",
+      "command": "wrangler dev",
+      "isBackground": true,
+      "problemMatcher": {
+        "owner": "wrangler",
+        "pattern": {
+          "regexp": "^$"
+        },
+        "background": {
+          "activeOnStart": true,
+          "beginsPattern": "^.*wrangler dev.*$",
+          "endsPattern": "\\[wrangler:info\\] Ready on http://127\\.0\\.0\\.1:8787"
+        }
+      },
+      "presentation": {
+        "reveal": "never",
+        "panel": "shared"
+      }
+    }
+  ]
+}
