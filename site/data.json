@@ -1,42 +1,69 @@
 {
   "mappings": [
-    { "zipper": "bz526wh", "threadColors": ["gtda800", "gtdp800", "jtd20wh"] },
+    {
+      "zipper": "bz526wh",
+      "threadColors": ["gtda800", "gtdp800", "jtd20wh", "spt60075"]
+    },
     { "zipper": "bz526na", "threadColors": ["gtda169", "gtdp169", "jtd20na"] },
     { "zipper": "bz526be", "threadColors": ["gtda208", "gtdp208"] },
-    { "zipper": "bz526ca", "threadColors": ["gtda180", "gtdp180", "jtd20lbr"] },
+    {
+      "zipper": "bz526ca",
+      "threadColors": ["gtda180", "gtdp180", "jtd20lbr", "spt68730"]
+    },
     {
       "zipper": "bz526ye",
       "threadColors": ["gtda3897", "gtdp3897", "jtd20ye"]
     },
-    { "zipper": "bz526or", "threadColors": ["gtda351", "gtdp351", "jtd20or"] },
-    { "zipper": "bz526ru", "threadColors": ["gtda368", "gtdp368", "jtd20re"] },
+    {
+      "zipper": "bz526or",
+      "threadColors": ["gtda351", "gtdp351", "jtd20or", "spt67630"]
+    },
+    {
+      "zipper": "bz526ru",
+      "threadColors": ["gtda368", "gtdp368", "jtd20re", "spt62680"]
+    },
     {
       "zipper": "bz526pk",
-      "threadColors": ["gtda1452", "gtdp1452", "jtd20pk"]
+      "threadColors": ["gtda1452", "gtdp1452", "jtd20pk", "spt61210"]
     },
-    { "zipper": "bz526re", "threadColors": ["gtda367", "gtdp367", "jtd20re"] },
-    { "zipper": "bz526wi", "threadColors": ["gtda369", "gtdp369"] },
-    { "zipper": "bz526lgn", "threadColors": ["gtda4061", "gtdp4061"] },
+    {
+      "zipper": "bz526re",
+      "threadColors": ["gtda367", "gtdp367", "jtd20re", "spt62250"]
+    },
+    { "zipper": "bz526wi", "threadColors": ["gtda369", "gtdp369", "spt62820"] },
+    {
+      "zipper": "bz526lgn",
+      "threadColors": ["gtda4061", "gtdp4061", "spt66270"]
+    },
     { "zipper": "bz526gn", "threadColors": ["gtda472", "gtdp472"] },
-    { "zipper": "bz526ag", "threadColors": ["gtda269", "gtdp269", "jtd20mog"] },
+    {
+      "zipper": "bz526ag",
+      "threadColors": ["gtda269", "gtdp269", "jtd20mog", "spt66340"]
+    },
     {
       "zipper": "bz526lb",
-      "threadColors": ["gtda6227", "gtdp6227", "jtd20lb"]
+      "threadColors": ["gtda6227", "gtdp6227", "jtd20lb", "spt64320"]
     },
     { "zipper": "bz526ro", "threadColors": ["gtda309", "gtdp309", "jtd20ro"] },
     { "zipper": "bz526mb", "threadColors": ["gtda13", "gtdp13", "jtd20mb"] },
-    { "zipper": "bz526nv", "threadColors": ["gtda665", "gtdp665", "jtd20nv"] },
+    {
+      "zipper": "bz526nv",
+      "threadColors": ["gtda665", "gtdp665", "jtd20nv", "spt64900"]
+    },
     { "zipper": "bz526la", "threadColors": ["gtda391", "gtdp391"] },
     { "zipper": "nz2524pu", "threadColors": ["gtda810", "gtdp810"] },
     { "zipper": "bz526lg", "threadColors": ["gtda493", "gtdp493", "jtd20slg"] },
     {
       "zipper": "bz526mg",
-      "threadColors": ["gtda2738", "gtdp2738", "jtd20mg"]
+      "threadColors": ["gtda2738", "gtdp2738", "jtd20mg", "spt60630"]
     },
-    { "zipper": "bz526dg", "threadColors": ["gtda141", "gtdp141", "jtd20dg"] },
+    {
+      "zipper": "bz526dg",
+      "threadColors": ["gtda141", "gtdp141", "jtd20dg", "spt60620"]
+    },
     {
       "zipper": "bz526lbr",
-      "threadColors": ["gtda252", "gtdp252", "jtd20lbr"]
+      "threadColors": ["gtda252", "gtdp252", "jtd20lbr", "spt68360"]
     },
     {
       "zipper": "bz526mbr",
@@ -48,7 +75,7 @@
     },
     {
       "zipper": "bz526bk",
-      "threadColors": ["gtda1274", "gtdp1274", "jtd20bk"]
+      "threadColors": ["gtda1274", "gtdp1274", "jtd20bk", "spt60850"]
     },
     {
       "zipper": "bz526gr",
@@ -56,20 +83,23 @@
     },
     {
       "zipper": "bz526iv",
-      "threadColors": ["gtda4567", "gtdp4567", "jtd20wh"]
+      "threadColors": ["gtda4567", "gtdp4567", "jtd20wh", "spt60150"]
     },
     {
       "zipper": "nz2524089",
-      "threadColors": ["gtda488", "gtdp488", "jtd20ye"]
+      "threadColors": ["gtda488", "gtdp488", "jtd20ye", "spt67250"]
     },
     {
       "zipper": "nz2524125",
-      "threadColors": ["gtda2507", "gtdp2507", "jtd20cr"]
+      "threadColors": ["gtda2507", "gtdp2507", "jtd20cr", "spt67410"]
     },
-    { "zipper": "nz2524kh", "threadColors": ["gtda160", "gtdp160", "jtd20ga"] },
+    {
+      "zipper": "nz2524kh",
+      "threadColors": ["gtda160", "gtdp160", "jtd20ga", "spt68720"]
+    },
     {
       "zipper": "nz2524087",
-      "threadColors": ["gtda1336", "gtdp1336", "jtd20lgo"]
+      "threadColors": ["gtda1336", "gtdp1336", "jtd20lgo", "spt68140"]
     },
     { "zipper": "nz2524521", "threadColors": ["gtda587", "gtdp587"] },
     { "zipper": "nz2524274", "threadColors": ["gtda991", "gtdp991"] },
@@ -958,6 +988,86 @@
     {
       "id": "jtd20vf",
       "thread": "jtd"
+    },
+    {
+      "id": "spt60075",
+      "thread": "spt"
+    },
+    {
+      "id": "spt68730",
+      "thread": "spt"
+    },
+    {
+      "id": "spt67630",
+      "thread": "spt"
+    },
+    {
+      "id": "spt62680",
+      "thread": "spt"
+    },
+    {
+      "id": "spt61210",
+      "thread": "spt"
+    },
+    {
+      "id": "spt62250",
+      "thread": "spt"
+    },
+    {
+      "id": "spt62820",
+      "thread": "spt"
+    },
+    {
+      "id": "spt66270",
+      "thread": "spt"
+    },
+    {
+      "id": "spt66340",
+      "thread": "spt"
+    },
+    {
+      "id": "spt64320",
+      "thread": "spt"
+    },
+    {
+      "id": "spt64900",
+      "thread": "spt"
+    },
+    {
+      "id": "spt60630",
+      "thread": "spt"
+    },
+    {
+      "id": "spt60620",
+      "thread": "spt"
+    },
+    {
+      "id": "spt68360",
+      "thread": "spt"
+    },
+    {
+      "id": "spt60850",
+      "thread": "spt"
+    },
+    {
+      "id": "spt60150",
+      "thread": "spt"
+    },
+    {
+      "id": "spt67250",
+      "thread": "spt"
+    },
+    {
+      "id": "spt67410",
+      "thread": "spt"
+    },
+    {
+      "id": "spt68720",
+      "thread": "spt"
+    },
+    {
+      "id": "spt68140",
+      "thread": "spt"
     }
   ],
   "threads": [
@@ -978,6 +1088,12 @@
       "name": "Perform-X Tex 60",
       "imageFolder": "jtd",
       "link": "https://www.wawak.com/thread/thread-by-use/top-stitch/perform-x-cotton-wrapped-poly-core-thread-tex-60/"
+    },
+    {
+      "id": "spt",
+      "name": "Coats & Clark S910 Dual Duty XP",
+      "imageFolder": "spt",
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/coatsclark-s910s930-dual-duty-xp-all-purpose-poly-wrapped-poly-core-thread-tex-30/"
     }
   ]
 }
