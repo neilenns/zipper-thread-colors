@@ -110,55 +110,82 @@
     },
     {
       "zipper": "nz2524516",
-      "threadColors": ["gtda382", "gtdp382", "jtd20dpk"]
+      "threadColors": ["gtda382", "gtdp382", "jtd20dpk", "spt61850"]
     },
-    { "zipper": "nz2524354", "threadColors": ["gtda4064", "gtdp4064"] },
-    { "zipper": "nz2524820", "threadColors": ["gtda156", "gtdp156"] },
+    {
+      "zipper": "nz2524354",
+      "threadColors": ["gtda4064", "gtdp4064", "spt63040"]
+    },
+    {
+      "zipper": "nz2524820",
+      "threadColors": ["gtda156", "gtdp156", "spt62250"]
+    },
     {
       "zipper": "nz2524520",
-      "threadColors": ["gtda369", "gtdp369", "jtd20re"]
+      "threadColors": ["gtda369", "gtdp369", "jtd20re", "spt62680"]
     },
     { "zipper": "nz2524y0997", "threadColors": ["gtda517", "gtdp517"] },
-    { "zipper": "nz2524021", "threadColors": ["gtda5039", "gtdp5039"] },
+    {
+      "zipper": "nz2524021",
+      "threadColors": ["gtda5039", "gtdp5039", "spt62680"]
+    },
     { "zipper": "nz2524z122", "threadColors": ["gtda2762", "gtdp2762"] },
-    { "zipper": "nz2524536", "threadColors": ["gtda833", "gtdp833"] },
+    {
+      "zipper": "nz2524536",
+      "threadColors": ["gtda833", "gtdp833", "spt66450"]
+    },
     {
       "zipper": "nz2524528",
-      "threadColors": ["gtda920", "gtdp920", "jtd20mog"]
+      "threadColors": ["gtda920", "gtdp920", "jtd20mog", "spt66260"]
     },
-    { "zipper": "nz2524544", "threadColors": ["gtda28", "gtdp28"] },
-    { "zipper": "nz2524548", "threadColors": ["gtda55", "gtdp55"] },
+    { "zipper": "nz2524544", "threadColors": ["gtda28", "gtdp28", "spt65220"] },
+    { "zipper": "nz2524548", "threadColors": ["gtda55", "gtdp55", "spt65550"] },
     { "zipper": "nz2524877", "threadColors": ["gtda189", "gtdp189"] },
     { "zipper": "nz2524840", "threadColors": ["gtda764", "gtdp764"] },
-    { "zipper": "nz2524264", "threadColors": ["gtda9679", "gtdp9679"] },
+    {
+      "zipper": "nz2524264",
+      "threadColors": ["gtda9679", "gtdp9679", "spt64230"]
+    },
     {
       "zipper": "nz2524918",
-      "threadColors": ["gtda4943", "gtdp4943", "jtd20ro"]
+      "threadColors": ["gtda4943", "gtdp4943", "jtd20ro", "spt64460"]
     },
     {
       "zipper": "nz2524058",
-      "threadColors": ["gtda387", "gtdp387", "jtd20dnv"]
+      "threadColors": ["gtda387", "gtdp387", "jtd20dnv", "spt64900"]
     },
-    { "zipper": "nz2524552", "threadColors": ["gtda3904", "gtdp3904"] },
+    {
+      "zipper": "nz2524552",
+      "threadColors": ["gtda3904", "gtdp3904", "spt63620"]
+    },
     { "zipper": "nz2524y0998", "threadColors": ["gtda9528", "gtdp9528"] },
-    { "zipper": "nz2524867", "threadColors": ["gtda32", "gtdp32"] },
-    { "zipper": "nz2524303", "threadColors": ["gtda5117", "gtdp5117"] },
-    { "zipper": "nz2524029", "threadColors": ["gtda463", "gtdp463"] },
+    {
+      "zipper": "nz2524867",
+      "threadColors": ["gtda32", "gtdp32", "spt63190"]
+    },
+    {
+      "zipper": "nz2524303",
+      "threadColors": ["gtda5117", "gtdp5117", "spt63660"]
+    },
+    {
+      "zipper": "nz2524029",
+      "threadColors": ["gtda463", "gtdp463", "spt63690"]
+    },
     {
       "zipper": "nz2524810",
       "threadColors": ["gtda209", "gtdp209", "jtd20vf"]
     },
     {
       "zipper": "nz2524568",
-      "threadColors": ["gtda406", "gtdp406", "jtd20dbr"]
+      "threadColors": ["gtda406", "gtdp406", "jtd20dbr", "spt68190"]
     },
     {
       "zipper": "nz2524326",
-      "threadColors": ["gtda799", "gtdp799", "jtd20bk"]
+      "threadColors": ["gtda799", "gtdp799", "jtd20bk", "spt60780"]
     },
     {
       "zipper": "nz2524916",
-      "threadColors": ["gtda1348", "gtdp1348", "jtd20bk"]
+      "threadColors": ["gtda1348", "gtdp1348", "jtd20bk", "spt60950"]
     }
   ],
   "zippers": [
@@ -1067,6 +1094,66 @@
     },
     {
       "id": "spt68140",
+      "thread": "spt"
+    },
+    {
+      "id": "spt61850",
+      "thread": "spt"
+    },
+    {
+      "id": "spt63040",
+      "thread": "spt"
+    },
+    {
+      "id": "spt66450",
+      "thread": "spt"
+    },
+    {
+      "id": "spt66260",
+      "thread": "spt"
+    },
+    {
+      "id": "spt65220",
+      "thread": "spt"
+    },
+    {
+      "id": "spt65550",
+      "thread": "spt"
+    },
+    {
+      "id": "spt64230",
+      "thread": "spt"
+    },
+    {
+      "id": "spt64460",
+      "thread": "spt"
+    },
+    {
+      "id": "spt60950",
+      "thread": "spt"
+    },
+    {
+      "id": "spt60780",
+      "thread": "spt"
+    },
+    {
+      "id": "spt68190",
+      "thread": "spt"
+    },
+    {
+      "id": "spt63690",
+      "thread": "spt"
+    },
+    {
+      "id": "spt63660",
+      "thread": "spt"
+    },
+    {
+      "id": "spt63190",
+      "thread": "spt"
+    },
+    {
+      "id": "spt63620",
       "thread": "spt"
     }
   ],
