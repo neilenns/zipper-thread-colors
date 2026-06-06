@@ -65,6 +65,7 @@
 
             const zipperCell = document.createElement("td");
             zipperCell.innerHTML = renderImageLink(
+              "zippers",
               zipper?.id,
               zipper?.link,
               zipper?.color || "Zipper",
@@ -81,6 +82,7 @@
 
               if (matchedThreadColor) {
                 threadCell.innerHTML = renderImageLink(
+                  thread.imageFolder,
                   matchedThreadColor.id,
                   matchedThreadColor.link,
                   matchedThreadColor.color || "Thread",
@@ -88,6 +90,7 @@
               } else {
                 threadCell.textContent = "—";
                 threadCell.style.color = "#7d8597";
+                threadCell.style.textAlign = "center";
               }
               row.appendChild(threadCell);
             });
@@ -105,16 +108,13 @@
         }
       }
 
-      function renderImageLink(id, link, altText, caption) {
+      function renderImageLink(base, id, link, altText, caption) {
         if (!link) {
           return '<span style="color:#7d8597">Missing link</span>';
         }
         return `
           <a class="image-link" href="${link}" target="_blank" rel="noopener noreferrer">
-            <picture>
-              <source srcset="images/${id}.webp" type="image/webp" />
-              <img src="images/${id}.jpg" alt="${altText}" loading="lazy" />
-            </picture>
+              <img src="images/${base}/${id}.webp" alt="${altText}" loading="lazy" />
             ${caption ? `<div class="image-caption">${caption}</div>` : ""}
           </a>
         `;
