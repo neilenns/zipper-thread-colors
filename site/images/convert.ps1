@@ -1,5 +1,5 @@
-$inputFolder  = ".\gtdp"
-$outputFolder = ".\gtdp"
+$inputFolder  = ".\jtd"
+$outputFolder = ".\jtd"
 $cwebp        = ".\cwebp.exe"
 
 if (!(Test-Path $outputFolder)) {

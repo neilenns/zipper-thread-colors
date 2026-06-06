@@ -1,66 +1,135 @@
 {
   "mappings": [
-    { "zipper": "bz526wh", "threadColors": ["gtda800", "gtdp800"] },
-    { "zipper": "bz526na", "threadColors": ["gtda169", "gtdp169"] },
+    { "zipper": "bz526wh", "threadColors": ["gtda800", "gtdp800", "jtd20wh"] },
+    { "zipper": "bz526na", "threadColors": ["gtda169", "gtdp169", "jtd20na"] },
     { "zipper": "bz526be", "threadColors": ["gtda208", "gtdp208"] },
-    { "zipper": "bz526ca", "threadColors": ["gtda180", "gtdp180"] },
-    { "zipper": "bz526ye", "threadColors": ["gtda3897", "gtdp3897"] },
-    { "zipper": "bz526or", "threadColors": ["gtda351", "gtdp351"] },
-    { "zipper": "bz526ru", "threadColors": ["gtda368", "gtdp368"] },
-    { "zipper": "bz526pk", "threadColors": ["gtda1452", "gtdp1452"] },
-    { "zipper": "bz526re", "threadColors": ["gtda367", "gtdp367"] },
+    { "zipper": "bz526ca", "threadColors": ["gtda180", "gtdp180", "jtd20lbr"] },
+    {
+      "zipper": "bz526ye",
+      "threadColors": ["gtda3897", "gtdp3897", "jtd20ye"]
+    },
+    { "zipper": "bz526or", "threadColors": ["gtda351", "gtdp351", "jtd20or"] },
+    { "zipper": "bz526ru", "threadColors": ["gtda368", "gtdp368", "jtd20re"] },
+    {
+      "zipper": "bz526pk",
+      "threadColors": ["gtda1452", "gtdp1452", "jtd20pk"]
+    },
+    { "zipper": "bz526re", "threadColors": ["gtda367", "gtdp367", "jtd20re"] },
     { "zipper": "bz526wi", "threadColors": ["gtda369", "gtdp369"] },
     { "zipper": "bz526lgn", "threadColors": ["gtda4061", "gtdp4061"] },
     { "zipper": "bz526gn", "threadColors": ["gtda472", "gtdp472"] },
-    { "zipper": "bz526ag", "threadColors": ["gtda269", "gtdp269"] },
-    { "zipper": "bz526lb", "threadColors": ["gtda6227", "gtdp6227"] },
-    { "zipper": "bz526ro", "threadColors": ["gtda309", "gtdp309"] },
-    { "zipper": "bz526mb", "threadColors": ["gtda13", "gtdp13"] },
-    { "zipper": "bz526nv", "threadColors": ["gtda665", "gtdp665"] },
+    { "zipper": "bz526ag", "threadColors": ["gtda269", "gtdp269", "jtd20mog"] },
+    {
+      "zipper": "bz526lb",
+      "threadColors": ["gtda6227", "gtdp6227", "jtd20lb"]
+    },
+    { "zipper": "bz526ro", "threadColors": ["gtda309", "gtdp309", "jtd20ro"] },
+    { "zipper": "bz526mb", "threadColors": ["gtda13", "gtdp13", "jtd20mb"] },
+    { "zipper": "bz526nv", "threadColors": ["gtda665", "gtdp665", "jtd20nv"] },
     { "zipper": "bz526la", "threadColors": ["gtda391", "gtdp391"] },
     { "zipper": "nz2524pu", "threadColors": ["gtda810", "gtdp810"] },
-    { "zipper": "bz526lg", "threadColors": ["gtda493", "gtdp493"] },
-    { "zipper": "bz526mg", "threadColors": ["gtda2738", "gtdp2738"] },
-    { "zipper": "bz526dg", "threadColors": ["gtda141", "gtdp141"] },
-    { "zipper": "bz526lbr", "threadColors": ["gtda252", "gtdp252"] },
-    { "zipper": "bz526mbr", "threadColors": ["gtda1213", "gtdp1213"] },
-    { "zipper": "bz526dbr", "threadColors": ["gtda682", "gtdp682"] },
-    { "zipper": "bz526bk", "threadColors": ["gtda1274", "gtdp1274"] },
-    { "zipper": "bz526gr", "threadColors": ["gtda1254", "gtdp1254"] },
-    { "zipper": "bz526iv", "threadColors": ["gtda4567", "gtdp4567"] },
-    { "zipper": "nz2524089", "threadColors": ["gtda488", "gtdp488"] },
-    { "zipper": "nz2524125", "threadColors": ["gtda2507", "gtdp2507"] },
-    { "zipper": "nz2524kh", "threadColors": ["gtda160", "gtdp160"] },
-    { "zipper": "nz2524087", "threadColors": ["gtda1336", "gtdp1336"] },
+    { "zipper": "bz526lg", "threadColors": ["gtda493", "gtdp493", "jtd20slg"] },
+    {
+      "zipper": "bz526mg",
+      "threadColors": ["gtda2738", "gtdp2738", "jtd20mg"]
+    },
+    { "zipper": "bz526dg", "threadColors": ["gtda141", "gtdp141", "jtd20dg"] },
+    {
+      "zipper": "bz526lbr",
+      "threadColors": ["gtda252", "gtdp252", "jtd20lbr"]
+    },
+    {
+      "zipper": "bz526mbr",
+      "threadColors": ["gtda1213", "gtdp1213", "jtd20dbr"]
+    },
+    {
+      "zipper": "bz526dbr",
+      "threadColors": ["gtda682", "gtdp682", "jtd20dbr"]
+    },
+    {
+      "zipper": "bz526bk",
+      "threadColors": ["gtda1274", "gtdp1274", "jtd20bk"]
+    },
+    {
+      "zipper": "bz526gr",
+      "threadColors": ["gtda1254", "gtdp1254", "jtd20bk"]
+    },
+    {
+      "zipper": "bz526iv",
+      "threadColors": ["gtda4567", "gtdp4567", "jtd20wh"]
+    },
+    {
+      "zipper": "nz2524089",
+      "threadColors": ["gtda488", "gtdp488", "jtd20ye"]
+    },
+    {
+      "zipper": "nz2524125",
+      "threadColors": ["gtda2507", "gtdp2507", "jtd20cr"]
+    },
+    { "zipper": "nz2524kh", "threadColors": ["gtda160", "gtdp160", "jtd20ga"] },
+    {
+      "zipper": "nz2524087",
+      "threadColors": ["gtda1336", "gtdp1336", "jtd20lgo"]
+    },
     { "zipper": "nz2524521", "threadColors": ["gtda587", "gtdp587"] },
     { "zipper": "nz2524274", "threadColors": ["gtda991", "gtdp991"] },
     { "zipper": "nz2524813", "threadColors": ["gtda80", "gtdp80"] },
-    { "zipper": "nz2524341", "threadColors": ["gtda2355", "gtdp2355"] },
-    { "zipper": "nz2524516", "threadColors": ["gtda382", "gtdp382"] },
+    {
+      "zipper": "nz2524341",
+      "threadColors": ["gtda2355", "gtdp2355", "jtd20dpk"]
+    },
+    {
+      "zipper": "nz2524516",
+      "threadColors": ["gtda382", "gtdp382", "jtd20dpk"]
+    },
     { "zipper": "nz2524354", "threadColors": ["gtda4064", "gtdp4064"] },
     { "zipper": "nz2524820", "threadColors": ["gtda156", "gtdp156"] },
-    { "zipper": "nz2524520", "threadColors": ["gtda369", "gtdp369"] },
+    {
+      "zipper": "nz2524520",
+      "threadColors": ["gtda369", "gtdp369", "jtd20re"]
+    },
     { "zipper": "nz2524y0997", "threadColors": ["gtda517", "gtdp517"] },
     { "zipper": "nz2524021", "threadColors": ["gtda5039", "gtdp5039"] },
     { "zipper": "nz2524z122", "threadColors": ["gtda2762", "gtdp2762"] },
     { "zipper": "nz2524536", "threadColors": ["gtda833", "gtdp833"] },
-    { "zipper": "nz2524528", "threadColors": ["gtda920", "gtdp920"] },
+    {
+      "zipper": "nz2524528",
+      "threadColors": ["gtda920", "gtdp920", "jtd20mog"]
+    },
     { "zipper": "nz2524544", "threadColors": ["gtda28", "gtdp28"] },
     { "zipper": "nz2524548", "threadColors": ["gtda55", "gtdp55"] },
     { "zipper": "nz2524877", "threadColors": ["gtda189", "gtdp189"] },
     { "zipper": "nz2524840", "threadColors": ["gtda764", "gtdp764"] },
     { "zipper": "nz2524264", "threadColors": ["gtda9679", "gtdp9679"] },
-    { "zipper": "nz2524918", "threadColors": ["gtda4943", "gtdp4943"] },
-    { "zipper": "nz2524058", "threadColors": ["gtda387", "gtdp387"] },
+    {
+      "zipper": "nz2524918",
+      "threadColors": ["gtda4943", "gtdp4943", "jtd20ro"]
+    },
+    {
+      "zipper": "nz2524058",
+      "threadColors": ["gtda387", "gtdp387", "jtd20dnv"]
+    },
     { "zipper": "nz2524552", "threadColors": ["gtda3904", "gtdp3904"] },
     { "zipper": "nz2524y0998", "threadColors": ["gtda9528", "gtdp9528"] },
     { "zipper": "nz2524867", "threadColors": ["gtda32", "gtdp32"] },
     { "zipper": "nz2524303", "threadColors": ["gtda5117", "gtdp5117"] },
     { "zipper": "nz2524029", "threadColors": ["gtda463", "gtdp463"] },
-    { "zipper": "nz2524810", "threadColors": ["gtda209", "gtdp209"] },
-    { "zipper": "nz2524568", "threadColors": ["gtda406", "gtdp406"] },
-    { "zipper": "nz2524326", "threadColors": ["gtda799", "gtdp799"] },
-    { "zipper": "nz2524916", "threadColors": ["gtda1348", "gtdp1348"] }
+    {
+      "zipper": "nz2524810",
+      "threadColors": ["gtda209", "gtdp209", "jtd20vf"]
+    },
+    {
+      "zipper": "nz2524568",
+      "threadColors": ["gtda406", "gtdp406", "jtd20dbr"]
+    },
+    {
+      "zipper": "nz2524326",
+      "threadColors": ["gtda799", "gtdp799", "jtd20bk"]
+    },
+    {
+      "zipper": "nz2524916",
+      "threadColors": ["gtda1348", "gtdp1348", "jtd20bk"]
+    }
   ],
   "zippers": [
     {
@@ -797,6 +866,98 @@
     {
       "id": "gtdp1348",
       "thread": "gtdp"
+    },
+    {
+      "id": "jtd20wh",
+      "thread": "jtd"
+    },
+    {
+      "id": "jtd20na",
+      "thread": "jtd"
+    },
+    {
+      "id": "jtd20lbr",
+      "thread": "jtd"
+    },
+    {
+      "id": "jtd20ye",
+      "thread": "jtd"
+    },
+    {
+      "id": "jtd20or",
+      "thread": "jtd"
+    },
+    {
+      "id": "jtd20re",
+      "thread": "jtd"
+    },
+    {
+      "id": "jtd20pk",
+      "thread": "jtd"
+    },
+    {
+      "id": "jtd20mog",
+      "thread": "jtd"
+    },
+    {
+      "id": "jtd20lb",
+      "thread": "jtd"
+    },
+    {
+      "id": "jtd20ro",
+      "thread": "jtd"
+    },
+    {
+      "id": "jtd20mb",
+      "thread": "jtd"
+    },
+    {
+      "id": "jtd20nv",
+      "thread": "jtd"
+    },
+    {
+      "id": "jtd20slg",
+      "thread": "jtd"
+    },
+    {
+      "id": "jtd20mg",
+      "thread": "jtd"
+    },
+    {
+      "id": "jtd20dg",
+      "thread": "jtd"
+    },
+    {
+      "id": "jtd20dbr",
+      "thread": "jtd"
+    },
+    {
+      "id": "jtd20bk",
+      "thread": "jtd"
+    },
+    {
+      "id": "jtd20cr",
+      "thread": "jtd"
+    },
+    {
+      "id": "jtd20ga",
+      "thread": "jtd"
+    },
+    {
+      "id": "jtd20lgo",
+      "thread": "jtd"
+    },
+    {
+      "id": "jtd20dpk",
+      "thread": "jtd"
+    },
+    {
+      "id": "jtd20dnv",
+      "thread": "jtd"
+    },
+    {
+      "id": "jtd20vf",
+      "thread": "jtd"
     }
   ],
   "threads": [
@@ -811,6 +972,12 @@
       "name": "Gutermann Mara 70",
       "imageFolder": "gtdp",
       "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-70-poly-wrapped-poly-core-thread-tex-40/"
+    },
+    {
+      "id": "jtd",
+      "name": "Perform-X Tex 60",
+      "imageFolder": "jtd",
+      "link": "https://www.wawak.com/thread/thread-by-use/top-stitch/perform-x-cotton-wrapped-poly-core-thread-tex-60/"
     }
   ]
 }
