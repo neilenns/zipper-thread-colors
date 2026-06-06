@@ -1,0 +1,29 @@
+name: CI
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  cloudflare:
+    name: Deploy to Cloudflare
+    runs-on: ubuntu-latest
+    environment:
+      name: dev
+      url: ${{ vars.APP_BASE_URL }}
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v6
+
+      - name: Install pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          run_install: false
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Deploy
+        run: wrangler deploy --env=dev

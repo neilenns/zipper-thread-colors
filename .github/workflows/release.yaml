@@ -1,0 +1,29 @@
+name: Deploy - prod
+
+on:
+  workflow_dispatch:
+  release:
+    types: [published]
+
+jobs:
+  cloudflare:
+    name: Deploy to Cloudflare
+    runs-on: ubuntu-latest
+    environment:
+      name: prod
+      url: ${{ vars.APP_BASE_URL }}
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v6
+
+      - name: Install pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          run_install: false
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Deploy
+        run: wrangler deploy --env=prod
