@@ -18,7 +18,7 @@
     { "zipper": "bz526mb", "threadColors": ["gtda13", "gtdp13"] },
     { "zipper": "bz526nv", "threadColors": ["gtda665", "gtdp665"] },
     { "zipper": "bz526la", "threadColors": ["gtda391", "gtdp391"] },
-    { "zipper": "bz526pu", "threadColors": ["gtda810", "gtdp810"] },
+    { "zipper": "nz2524pu", "threadColors": ["gtda810", "gtdp810"] },
     { "zipper": "bz526lg", "threadColors": ["gtda493", "gtdp493"] },
     { "zipper": "bz526mg", "threadColors": ["gtda2738", "gtdp2738"] },
     { "zipper": "bz526dg", "threadColors": ["gtda141", "gtdp141"] },
@@ -28,39 +28,39 @@
     { "zipper": "bz526bk", "threadColors": ["gtda1274", "gtdp1274"] },
     { "zipper": "bz526gr", "threadColors": ["gtda1254", "gtdp1254"] },
     { "zipper": "bz526iv", "threadColors": ["gtda4567", "gtdp4567"] },
-    { "zipper": "bz52689", "threadColors": ["gtda488", "gtdp488"] },
-    { "zipper": "bz526125", "threadColors": ["gtda2507", "gtdp2507"] },
-    { "zipper": "bz526kh", "threadColors": ["gtda160", "gtdp160"] },
-    { "zipper": "bz52687", "threadColors": ["gtda1336", "gtdp1336"] },
-    { "zipper": "bz526521", "threadColors": ["gtda587", "gtdp587"] },
-    { "zipper": "bz526274", "threadColors": ["gtda991", "gtdp991"] },
-    { "zipper": "bz526813", "threadColors": ["gtda80", "gtdp80"] },
-    { "zipper": "bz526341", "threadColors": ["gtda2355", "gtdp2355"] },
-    { "zipper": "bz526516", "threadColors": ["gtda382", "gtdp382"] },
-    { "zipper": "bz526354", "threadColors": ["gtda4064", "gtdp4064"] },
-    { "zipper": "bz526820", "threadColors": ["gtda156", "gtdp156"] },
-    { "zipper": "bz526520", "threadColors": ["gtda369", "gtdp369"] },
-    { "zipper": "bz526y0997", "threadColors": ["gtda517", "gtdp517"] },
-    { "zipper": "bz52621", "threadColors": ["gtda5039", "gtdp5039"] },
-    { "zipper": "bz526z122", "threadColors": ["gtda2762", "gtdp2762"] },
-    { "zipper": "bz526536", "threadColors": ["gtda833", "gtdp833"] },
-    { "zipper": "bz526528", "threadColors": ["gtda920", "gtdp920"] },
-    { "zipper": "bz526544", "threadColors": ["gtda28", "gtdp28"] },
-    { "zipper": "bz526548", "threadColors": ["gtda55", "gtdp55"] },
-    { "zipper": "bz526877", "threadColors": ["gtda189", "gtdp189"] },
-    { "zipper": "bz526840", "threadColors": ["gtda764", "gtdp764"] },
-    { "zipper": "bz526264", "threadColors": ["gtda9679", "gtdp9679"] },
-    { "zipper": "bz526918", "threadColors": ["gtda4943", "gtdp4943"] },
-    { "zipper": "bz52658", "threadColors": ["gtda387", "gtdp387"] },
-    { "zipper": "bz526552", "threadColors": ["gtda3904", "gtdp3904"] },
-    { "zipper": "bz526y0998", "threadColors": ["gtda9528", "gtdp9528"] },
-    { "zipper": "bz526867", "threadColors": ["gtda32", "gtdp32"] },
-    { "zipper": "bz526303", "threadColors": ["gtda5117", "gtdp5117"] },
-    { "zipper": "bz52629", "threadColors": ["gtda463", "gtdp463"] },
-    { "zipper": "bz526810", "threadColors": ["gtda209", "gtdp209"] },
-    { "zipper": "bz526568", "threadColors": ["gtda406", "gtdp406"] },
-    { "zipper": "bz526326", "threadColors": ["gtda799", "gtdp799"] },
-    { "zipper": "bz526916", "threadColors": ["gtda1348", "gtdp1348"] }
+    { "zipper": "nz2524089", "threadColors": ["gtda488", "gtdp488"] },
+    { "zipper": "nz2524125", "threadColors": ["gtda2507", "gtdp2507"] },
+    { "zipper": "nz2524kh", "threadColors": ["gtda160", "gtdp160"] },
+    { "zipper": "nz2524087", "threadColors": ["gtda1336", "gtdp1336"] },
+    { "zipper": "nz2524521", "threadColors": ["gtda587", "gtdp587"] },
+    { "zipper": "nz2524274", "threadColors": ["gtda991", "gtdp991"] },
+    { "zipper": "nz2524813", "threadColors": ["gtda80", "gtdp80"] },
+    { "zipper": "nz2524341", "threadColors": ["gtda2355", "gtdp2355"] },
+    { "zipper": "nz2524516", "threadColors": ["gtda382", "gtdp382"] },
+    { "zipper": "nz2524354", "threadColors": ["gtda4064", "gtdp4064"] },
+    { "zipper": "nz2524820", "threadColors": ["gtda156", "gtdp156"] },
+    { "zipper": "nz2524520", "threadColors": ["gtda369", "gtdp369"] },
+    { "zipper": "nz2524y0997", "threadColors": ["gtda517", "gtdp517"] },
+    { "zipper": "nz2524021", "threadColors": ["gtda5039", "gtdp5039"] },
+    { "zipper": "nz2524z122", "threadColors": ["gtda2762", "gtdp2762"] },
+    { "zipper": "nz2524536", "threadColors": ["gtda833", "gtdp833"] },
+    { "zipper": "nz2524528", "threadColors": ["gtda920", "gtdp920"] },
+    { "zipper": "nz2524544", "threadColors": ["gtda28", "gtdp28"] },
+    { "zipper": "nz2524548", "threadColors": ["gtda55", "gtdp55"] },
+    { "zipper": "nz2524877", "threadColors": ["gtda189", "gtdp189"] },
+    { "zipper": "nz2524840", "threadColors": ["gtda764", "gtdp764"] },
+    { "zipper": "nz2524264", "threadColors": ["gtda9679", "gtdp9679"] },
+    { "zipper": "nz2524918", "threadColors": ["gtda4943", "gtdp4943"] },
+    { "zipper": "nz2524058", "threadColors": ["gtda387", "gtdp387"] },
+    { "zipper": "nz2524552", "threadColors": ["gtda3904", "gtdp3904"] },
+    { "zipper": "nz2524y0998", "threadColors": ["gtda9528", "gtdp9528"] },
+    { "zipper": "nz2524867", "threadColors": ["gtda32", "gtdp32"] },
+    { "zipper": "nz2524303", "threadColors": ["gtda5117", "gtdp5117"] },
+    { "zipper": "nz2524029", "threadColors": ["gtda463", "gtdp463"] },
+    { "zipper": "nz2524810", "threadColors": ["gtda209", "gtdp209"] },
+    { "zipper": "nz2524568", "threadColors": ["gtda406", "gtdp406"] },
+    { "zipper": "nz2524326", "threadColors": ["gtda799", "gtdp799"] },
+    { "zipper": "nz2524916", "threadColors": ["gtda1348", "gtdp1348"] }
   ],
   "zippers": [
     {
@@ -154,6 +154,11 @@
       "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
     },
     {
+      "id": "nz2524pu",
+      "color": "Purple/559",
+      "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524pu"
+    },
+    {
       "id": "bz526lg",
       "color": "Light Grey/576",
       "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526lg"
@@ -189,179 +194,179 @@
       "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526bk"
     },
     {
-      "id": "u6Jt2fM8Vr",
+      "id": "bz526gr",
       "color": "Graphite/156",
-      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526gr"
     },
     {
-      "id": "z1Bp7qS4Xn",
+      "id": "bz526iv",
       "color": "Bridal Ivory/841",
-      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526iv"
     },
     {
-      "id": "p4Lm9vA2Qx",
+      "id": "nz2524089",
       "color": "Buttercup",
-      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+      "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524089"
     },
     {
-      "id": "s7Rn3pW8Kd",
+      "id": "nz2524125",
       "color": "Cream",
-      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+      "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524125"
     },
     {
-      "id": "t2Jt6fM5Vs",
+      "id": "nz2524kh",
       "color": "Khaki/573",
-      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+      "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524kh"
     },
     {
-      "id": "y8Bp1qS9Xn",
+      "id": "nz2524087",
       "color": "Gold",
-      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+      "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524087"
     },
     {
-      "id": "c3Lm7vA4Qx",
+      "id": "nz2524521",
       "color": "Peach",
-      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+      "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524521"
     },
     {
-      "id": "v9Rn2pW6Kd",
+      "id": "nz2524274",
       "color": "Dusty Rose",
-      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+      "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524274"
     },
     {
-      "id": "a5Jt8fM1Vs",
+      "id": "nz2524813",
       "color": "Salmon",
-      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+      "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524813"
     },
     {
-      "id": "q1Bp4qS7Xn",
+      "id": "nz2524341",
       "color": "Petunia",
-      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+      "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524341"
     },
     {
-      "id": "r6Lm3vA9Qx",
+      "id": "nz2524516",
       "color": "Hot Pink",
-      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+      "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524516"
     },
     {
-      "id": "x2Rn8pW5Kd",
+      "id": "nz2524354",
       "color": "Watermelon",
-      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+      "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524354"
     },
     {
-      "id": "n7Jt1fM4Vs",
+      "id": "nz2524820",
       "color": "Fire Red",
-      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+      "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524820"
     },
     {
-      "id": "j3Bp9qS6Xn",
+      "id": "nz2524520",
       "color": "Deep Red",
-      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+      "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524520"
     },
     {
-      "id": "w8Lm2vA1Qx",
+      "id": "nz2524y0997",
       "color": "Deep Fuschia",
-      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+      "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524y0997"
     },
     {
-      "id": "e1Rn7pW3Kd",
+      "id": "nz2524021",
       "color": "Cranberry",
-      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+      "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524021"
     },
     {
-      "id": "g6Jt4fM9Vs",
+      "id": "nz2524z122",
       "color": "Eggplant",
-      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+      "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524z122"
     },
     {
-      "id": "o2Bp8qS5Xn",
+      "id": "nz2524536",
       "color": "Spring Green",
-      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+      "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524536"
     },
     {
-      "id": "i9Lm1vA7Qx",
+      "id": "nz2524528",
       "color": "Clover",
-      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+      "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524528"
     },
     {
-      "id": "d4Rn6pW2Kd",
+      "id": "nz2524544",
       "color": "Blue Frost",
-      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+      "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524544"
     },
     {
-      "id": "f8Jt3fM1Vs",
+      "id": "nz2524548",
       "color": "Aqua",
-      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+      "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524548"
     },
     {
-      "id": "l2Bp9qS4Xn",
+      "id": "nz2524877",
       "color": "Jade",
-      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+      "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524877"
     },
     {
-      "id": "u7Lm5vA8Qx",
+      "id": "nz2524840",
       "color": "Teal",
-      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+      "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524840"
     },
     {
-      "id": "z3Rn1pW6Kd",
+      "id": "nz2524264",
       "color": "Periwinkle",
-      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+      "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524264"
     },
     {
-      "id": "p8Jt2fM4Vs",
+      "id": "nz2524918",
       "color": "Indigo",
-      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+      "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524918"
     },
     {
-      "id": "s1Bp7qS9Xn",
+      "id": "nz2524058",
       "color": "Midnight",
-      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+      "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524058"
     },
     {
-      "id": "t6Lm3vA5Qx",
+      "id": "nz2524552",
       "color": "Light Lilac",
-      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+      "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524552"
     },
     {
-      "id": "y2Rn8pW1Kd",
+      "id": "nz2524y0998",
       "color": "Lilac",
-      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+      "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524y0998"
     },
     {
-      "id": "c7Jt4fM6Vs",
+      "id": "nz2524867",
       "color": "Grape",
-      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+      "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524867"
     },
     {
-      "id": "v1Bp9qS3Xn",
+      "id": "nz2524303",
       "color": "Royal Purple",
-      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+      "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524303"
     },
     {
-      "id": "a6Lm2vA8Qx",
+      "id": "nz2524029",
       "color": "Violet",
-      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+      "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524029"
     },
     {
-      "id": "q3Rn5pW7Kd",
+      "id": "nz2524810",
       "color": "Gabardine",
-      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+      "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524810"
     },
     {
-      "id": "r9Jt1fM2Vs",
+      "id": "nz2524568",
       "color": "Chocolate",
-      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+      "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524568"
     },
     {
-      "id": "x4Bp8qS6Xn",
+      "id": "nz2524326",
       "color": "Pewter",
-      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+      "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524326"
     },
     {
-      "id": "n1Lm7vA3Qx",
+      "id": "nz2524916",
       "color": "Charcoal",
-      "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la"
+      "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524916"
     }
   ],
   "threadColors": [
