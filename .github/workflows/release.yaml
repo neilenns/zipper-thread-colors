@@ -17,17 +17,8 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v6
 
-      - name: Install pnpm
-        uses: pnpm/action-setup@v6
-        with:
-          run_install: false
-
-      - name: Install dependencies
-        run: pnpm install --frozen-lockfile
-
       - name: Deploy to Cloudflare
-        uses: ./.github/actions/cloudflare-deploy
+        uses: cloudflare/wrangler-action@v3
         with:
-          cloudflare_account_id: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          cloudflare_api_token: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          deploy_env: prod
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          environment: prod
