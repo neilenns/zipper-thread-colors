@@ -1,0 +1,30 @@
+name: CI
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  cloudflare:
+    name: Deploy to Cloudflare
+    runs-on: ubuntu-latest
+    environment:
+      name: dev
+      url: ${{ vars.APP_BASE_URL }}
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v6
+
+      # This is required for cloudflare/wrangler-action to work
+      - name: Install pnpm
+        uses: pnpm/action-setup@v6
+        with:
+          run_install: false
+
+      - name: Deploy to Cloudflare
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          environment: dev

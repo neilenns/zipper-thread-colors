@@ -1,0 +1,28 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "threads",
+  "compatibility_date": "2026-06-06",
+
+  "assets": {
+    "directory": "./site",
+  },
+
+  "env": {
+    "dev": {
+      "routes": [
+        {
+          "pattern": "threads-dev.badcasserole.com",
+          "custom_domain": true,
+        },
+      ],
+    },
+    "prod": {
+      "routes": [
+        {
+          "pattern": "threads.badcasserole.com",
+          "custom_domain": true,
+        },
+      ],
+    },
+  },
+}
