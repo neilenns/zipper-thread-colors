@@ -9,11 +9,15 @@
   <body>
     <div class="page">
       <header>
-        <h1>Zipper → Thread Mappings</h1>
+        <h1>YKK Zipper color to matching thread color selection guide</h1>
         <p>
-          Browse zipper images alongside their matching thread colors. Each
-          image links directly to the product page for faster selection.
+          Based on the
+          <a
+            href="https://www.wawak.com/490246/globalassets/documents/waw_pim/nz3/zipper-to-thread-color-selection-guide"
+            >Wawak guide of the same name</a
+          >, but in a more visual form.
         </p>
+        <p>All images are hyperlinks to the matching product on Wawak.</p>
       </header>
 
       <div class="table-wrap">
@@ -65,6 +69,7 @@
 
             const zipperCell = document.createElement("td");
             zipperCell.innerHTML = renderImageLink(
+              "zippers",
               zipper?.id,
               zipper?.link,
               zipper?.color || "Zipper",
@@ -81,13 +86,16 @@
 
               if (matchedThreadColor) {
                 threadCell.innerHTML = renderImageLink(
+                  thread.imageFolder,
                   matchedThreadColor.id,
-                  matchedThreadColor.link,
-                  matchedThreadColor.color || "Thread",
+                  `${thread.link}#sku=${matchedThreadColor.id}`,
+                  matchedThreadColor.id.toUpperCase() || "Thread",
+                  matchedThreadColor.id.toUpperCase(),
                 );
               } else {
                 threadCell.textContent = "—";
                 threadCell.style.color = "#7d8597";
+                threadCell.style.textAlign = "center";
               }
               row.appendChild(threadCell);
             });
@@ -105,16 +113,13 @@
         }
       }
 
-      function renderImageLink(id, link, altText, caption) {
+      function renderImageLink(base, id, link, altText, caption) {
         if (!link) {
           return '<span style="color:#7d8597">Missing link</span>';
         }
         return `
           <a class="image-link" href="${link}" target="_blank" rel="noopener noreferrer">
-            <picture>
-              <source srcset="images/${id}.webp" type="image/webp" />
-              <img src="images/${id}.jpg" alt="${altText}" loading="lazy" />
-            </picture>
+              <img src="images/${base}/${id}.webp" alt="${altText}" loading="lazy" />
             ${caption ? `<div class="image-caption">${caption}</div>` : ""}
           </a>
         `;
