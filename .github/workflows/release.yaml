@@ -25,5 +25,9 @@ jobs:
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
 
-      - name: Deploy
-        run: wrangler deploy --env=prod
+      - name: Deploy to Cloudflare
+        uses: ./.github/actions/cloudflare-deploy
+        with:
+          cloudflare_account_id: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          cloudflare_api_token: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          deploy_env: prod

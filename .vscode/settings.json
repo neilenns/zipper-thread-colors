@@ -1,5 +1,5 @@
 {
-  "cSpell.words": ["gtda", "gtdp"],
+  "cSpell.words": ["gtda", "gtdp", "pnpx"],
   "files.exclude": {
     "**/.git": true,
     "**/node_modules": true,
