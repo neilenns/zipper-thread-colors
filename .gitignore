@@ -1,3 +1,4 @@
 **/*.exe
 .wrangler/
 node_modules/
+.pnpm-store/
