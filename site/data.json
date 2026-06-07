@@ -4,6 +4,7 @@
     {
       "zipper": "bz526wh",
       "threadColors": {
+        "gtsa": "020",
         "gtda": "gtda800",
         "gtdp": "gtdp800",
         "jtd": "jtd20wh",
@@ -13,6 +14,7 @@
     {
       "zipper": "bz526na",
       "threadColors": {
+        "gtsa": "030",
         "gtda": "gtda169",
         "gtdp": "gtdp169",
         "jtd": "jtd20na"
@@ -28,6 +30,7 @@
     {
       "zipper": "bz526ca",
       "threadColors": {
+        "gtsa": "548",
         "gtda": "gtda180",
         "gtdp": "gtdp180",
         "jtd": "jtd20lbr",
@@ -45,6 +48,7 @@
     {
       "zipper": "bz526or",
       "threadColors": {
+        "gtsa": "470",
         "gtda": "gtda351",
         "gtdp": "gtdp351",
         "jtd": "jtd20or",
@@ -54,6 +58,7 @@
     {
       "zipper": "bz526ru",
       "threadColors": {
+        "gtsa": "436",
         "gtda": "gtda368",
         "gtdp": "gtdp368",
         "jtd": "jtd20re",
@@ -71,6 +76,7 @@
     {
       "zipper": "bz526re",
       "threadColors": {
+        "gtsa": "435",
         "gtda": "gtda367",
         "gtdp": "gtdp367",
         "jtd": "jtd20re",
@@ -80,6 +86,7 @@
     {
       "zipper": "bz526wi",
       "threadColors": {
+        "gtsa": "450",
         "gtda": "gtda369",
         "gtdp": "gtdp369",
         "spt": "spt62820"
@@ -95,6 +102,7 @@
     {
       "zipper": "bz526gn",
       "threadColors": {
+        "gtsa": "794",
         "gtda": "gtda472",
         "gtdp": "gtdp472"
       }
@@ -102,6 +110,7 @@
     {
       "zipper": "bz526ag",
       "threadColors": {
+        "gtsa": "766",
         "gtda": "gtda269",
         "gtdp": "gtdp269",
         "jtd": "jtd20mog",
@@ -120,6 +129,7 @@
     {
       "zipper": "bz526ro",
       "threadColors": {
+        "gtsa": "266",
         "gtda": "gtda309",
         "gtdp": "gtdp309",
         "jtd": "jtd20ro"
@@ -128,6 +138,7 @@
     {
       "zipper": "bz526mb",
       "threadColors": {
+        "gtsa": "275",
         "gtda": "gtda13",
         "gtdp": "gtdp13",
         "jtd": "jtd20mb"
@@ -136,6 +147,7 @@
     {
       "zipper": "bz526nv",
       "threadColors": {
+        "gtsa": "280",
         "gtda": "gtda665",
         "gtdp": "gtdp665",
         "jtd": "jtd20nv",
@@ -145,6 +157,7 @@
     {
       "zipper": "bz526la",
       "threadColors": {
+        "gtsa": "925",
         "gtda": "gtda391",
         "gtdp": "gtdp391"
       }
@@ -152,6 +165,7 @@
     {
       "zipper": "nz2524pu",
       "threadColors": {
+        "gtsa": "945",
         "gtda": "gtda810",
         "gtdp": "gtdp810"
       }
@@ -274,6 +288,7 @@
     {
       "zipper": "nz2524274",
       "threadColors": {
+        "gtsa": "357",
         "gtda": "gtda991",
         "gtdp": "gtdp991"
       }
@@ -281,6 +296,7 @@
     {
       "zipper": "nz2524813",
       "threadColors": {
+        "gtsa": "352",
         "gtda": "gtda80",
         "gtdp": "gtdp80"
       }
@@ -295,6 +311,7 @@
     {
       "zipper": "nz2524516",
       "threadColors": {
+        "gtsa": "345",
         "gtda": "gtda382",
         "gtdp": "gtdp382",
         "jtd": "jtd20dpk",
@@ -311,6 +328,7 @@
     {
       "zipper": "nz2524820",
       "threadColors": {
+        "gtsa": "410",
         "gtda": "gtda156",
         "gtdp": "gtdp156",
         "spt": "spt62250"
@@ -319,6 +337,7 @@
     {
       "zipper": "nz2524520",
       "threadColors": {
+        "gtsa": "450",
         "gtda": "gtda369",
         "gtdp": "gtdp369",
         "jtd": "jtd20re",
@@ -328,6 +347,7 @@
     {
       "zipper": "nz2524y0997",
       "threadColors": {
+        "gtsa": "447",
         "gtda": "gtda517",
         "gtdp": "gtdp517"
       }
@@ -349,6 +369,7 @@
     {
       "zipper": "nz2524536",
       "threadColors": {
+        "gtsa": "720",
         "gtda": "gtda833",
         "gtdp": "gtdp833",
         "spt": "spt66450"
@@ -357,6 +378,7 @@
     {
       "zipper": "nz2524528",
       "threadColors": {
+        "gtsa": "779",
         "gtda": "gtda920",
         "gtdp": "gtdp920",
         "jtd": "jtd20mog",
@@ -366,6 +388,7 @@
     {
       "zipper": "nz2524544",
       "threadColors": {
+        "gtsa": "618",
         "gtda": "gtda28",
         "gtdp": "gtdp28",
         "spt": "spt65220"
@@ -374,6 +397,7 @@
     {
       "zipper": "nz2524548",
       "threadColors": {
+        "gtsa": "686",
         "gtdp": "gtdp55",
         "spt": "spt65550"
       }
@@ -381,6 +405,7 @@
     {
       "zipper": "nz2524877",
       "threadColors": {
+        "gtsa": "687",
         "gtda": "gtda189",
         "gtdp": "gtdp189"
       }
@@ -388,6 +413,7 @@
     {
       "zipper": "nz2524840",
       "threadColors": {
+        "gtsa": "638",
         "gtda": "gtda764",
         "gtdp": "gtdp764"
       }
@@ -411,6 +437,7 @@
     {
       "zipper": "nz2524058",
       "threadColors": {
+        "gtsa": "279",
         "gtda": "gtda387",
         "gtdp": "gtdp387",
         "jtd": "jtd20dnv",
@@ -450,6 +477,7 @@
     {
       "zipper": "nz2524029",
       "threadColors": {
+        "gtsa": "944",
         "gtdp": "gtdp463",
         "spt": "spt63690"
       }
@@ -465,6 +493,7 @@
     {
       "zipper": "nz2524568",
       "threadColors": {
+        "gtsa": "587",
         "gtda": "gtda406",
         "gtdp": "gtdp406",
         "jtd": "jtd20dbr",
@@ -798,28 +827,34 @@
   ],
   "threads": [
     {
+      "id": "gtsa",
+      "name": "Gutermann Sew-All",
+      "imageFolder": "gtsa",
+      "link": "https://123stitch.com/item/Gutermann-Sew-All-Polyester-Thread-110-yd/729883-"
+    },
+    {
       "id": "gtda",
       "name": "Gutermann Mara 100",
       "imageFolder": "gtda",
-      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/"
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku="
     },
     {
       "id": "gtdp",
       "name": "Gutermann Mara 70",
       "imageFolder": "gtdp",
-      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-70-poly-wrapped-poly-core-thread-tex-40/"
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-70-poly-wrapped-poly-core-thread-tex-40/#sku="
     },
     {
       "id": "jtd",
       "name": "Perform-X Tex 60",
       "imageFolder": "jtd",
-      "link": "https://www.wawak.com/thread/thread-by-use/top-stitch/perform-x-cotton-wrapped-poly-core-thread-tex-60/"
+      "link": "https://www.wawak.com/thread/thread-by-use/top-stitch/perform-x-cotton-wrapped-poly-core-thread-tex-60/#sku="
     },
     {
       "id": "spt",
       "name": "Coats & Clark S910 Dual Duty XP",
       "imageFolder": "spt",
-      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/coatsclark-s910s930-dual-duty-xp-all-purpose-poly-wrapped-poly-core-thread-tex-30/"
+      "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/coatsclark-s910s930-dual-duty-xp-all-purpose-poly-wrapped-poly-core-thread-tex-30/#sku="
     }
   ]
 }

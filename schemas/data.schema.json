@@ -26,9 +26,14 @@
             "description": "A map of thread IDs to the recommended color code for that thread.",
             "minProperties": 1,
             "propertyNames": {
-              "enum": ["gtda", "gtdp", "jtd", "spt"]
+              "enum": ["gtsa", "gtda", "gtdp", "jtd", "spt"]
             },
             "properties": {
+              "gtsa": {
+                "type": "string",
+                "description": "Gutermann Sew-All thread color code.",
+                "pattern": "^[0-9]+$"
+              },
               "gtda": {
                 "type": "string",
                 "description": "Gutermann Mara 100 thread color code.",
@@ -90,7 +95,7 @@
           "id": {
             "type": "string",
             "description": "Short identifier for the thread type, used as keys in threadColors (e.g. 'gtda', 'spt').",
-            "enum": ["gtda", "gtdp", "jtd", "spt"]
+            "enum": ["gtsa", "gtda", "gtdp", "jtd", "spt"]
           },
           "name": {
             "type": "string",
