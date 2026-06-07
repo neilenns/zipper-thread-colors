@@ -1,5 +1,5 @@
-$inputFolder  = ".\spt"
-$outputFolder = ".\spt"
+$inputFolder  = ".\gtsa"
+$outputFolder = ".\gtsa"
 $cwebp        = ".\cwebp.exe"
 
 if (!(Test-Path $outputFolder)) {
