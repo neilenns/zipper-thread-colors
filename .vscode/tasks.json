@@ -4,7 +4,7 @@
     {
       "label": "Start Wrangler Dev",
       "type": "shell",
-      "command": "pnpx wrangler dev",
+      "command": "pnpm wrangler dev",
       "isBackground": true,
       "problemMatcher": {
         "owner": "wrangler",
@@ -14,7 +14,7 @@
         "background": {
           "activeOnStart": true,
           "beginsPattern": "^.*wrangler dev.*$",
-          "endsPattern": "\\[wrangler:info\\] Ready on http://127\\.0\\.0\\.1:8787"
+          "endsPattern": "\\[wrangler:info\\] Ready on"
         }
       },
       "presentation": {

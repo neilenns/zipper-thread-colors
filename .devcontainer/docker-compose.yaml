@@ -1,0 +1,15 @@
+services:
+  app:
+    image: mcr.microsoft.com/devcontainers/typescript-node
+    volumes:
+      - ../..:/workspaces:cached
+      - pnpm-store-devcontainer:/pnpm-store
+    environment:
+      - PNPM_STORE=/pnpm-store
+
+    # Overrides default command so things don't shut down after the process ends.
+    command: sleep infinity
+
+volumes:
+  pnpm-store-devcontainer:
+    name: pnpm-store-devcontainer
