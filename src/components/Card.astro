@@ -59,9 +59,7 @@ const { label, link, image, altText } = Astro.props;
   }
 </style>
 
-<td class="table-cell">
-  <a class="image-link" href={link} target="_blank" rel="noopener noreferrer">
-    <img src={image} alt={altText} loading="lazy" />
-    <div class="image-caption">{label}</div>
-  </a>
-</td>
+<a class="image-link" href={link} target="_blank" rel="noopener noreferrer">
+  <img src={image} alt={altText} loading="lazy" />
+  <div class="image-caption">{label}</div>
+</a>
