@@ -11,12 +11,6 @@ const { threadId, colorCode } = Astro.props;
 const thread = colorCode ? await getEntry("threads", threadId) : null;
 ---
 
-<style>
-  td {
-    text-align: center;
-  }
-</style>
-
 {
   colorCode ? (
     <Card
@@ -26,6 +20,6 @@ const thread = colorCode ? await getEntry("threads", threadId) : null;
       link={`${thread?.data.link ?? ""}${colorCode}`}
     />
   ) : (
-    <td>—</td>
+    <td class="table-cell" style="text-align: center;">—</td>
   )
 }
