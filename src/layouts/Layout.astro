@@ -1,3 +1,9 @@
+---
+const title = "YKK zipper color to matching thread color selection guide";
+const description =
+  "YKK zipper color to matching thread color selection, based on Wawak's guide.";
+---
+
 <!doctype html>
 <style is:global>
   :root {
@@ -65,26 +71,17 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>YKK zipper color to matching thread color selection guide</title>
-    <meta
-      name="description"
-      content="YKK zipper color to matching thread color selection, based on Wawak's guide."
-    />
-    <meta property="og:title" content="YKK zippers to thread colors" />
-    <meta
-      property="og:description"
-      content="YKK zipper color to matching thread color selection, based on Wawak's guide."
-    />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
     <meta property="og:type" content="website" />
-    <meta property="og:site_name" content="YKK zippers to thread colors" />
+    <meta property="og:site_name" content={title} />
     <meta property="og:image" content="images/zippers/nz2524021.webp" />
     <meta property="og:image:alt" content="A cranberry YKK zipper" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Zipper to Thread Mappings" />
-    <meta
-      name="twitter:description"
-      content="YKK zipper color to matching thread color selection, based on Wawak's guide."
-    />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
     <meta name="twitter:image" content="images/zippers/nz2524021.webp" />
     <link rel="icon" type="image/x-icon" href="/favicon.ico" />
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
