@@ -1,0 +1,24 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "config:recommended",
+    "schedule:monthly",
+    "schedule:automergeMonthly"
+  ],
+  "labels": ["dependencies"],
+  "packageRules": [
+    {
+      "automerge": true,
+      "groupName": "pnpm updates",
+      "groupSlug": "pnpm",
+      "matchPackageNames": ["pnpm"]
+    },
+    {
+      "automerge": true,
+      "groupName": "all minor and patch dependencies",
+      "groupSlug": "all-minor-patch",
+      "matchUpdateTypes": ["minor", "patch"],
+      "matchPackageNames": ["!pnpm"]
+    }
+  ]
+}

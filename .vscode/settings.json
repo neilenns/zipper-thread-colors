@@ -17,5 +17,8 @@
     "**/node_modules": true,
     "**/.wrangler": true,
     "**/.astro": true
+  },
+  "json.schemaDownload.trustedDomains": {
+    "https://docs.renovatebot.com": true
   }
 }
