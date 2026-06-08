@@ -1,0 +1,27 @@
+{
+  "gtsa": {
+    "name": "Gutermann Sew-All",
+    "link": "https://123stitch.com/item/Gutermann-Sew-All-Polyester-Thread-110-yd/729883-",
+    "order": 0
+  },
+  "gtda": {
+    "name": "Gutermann Mara 100",
+    "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-100-poly-wrapped-poly-core-thread-tex-30/#sku=",
+    "order": 1
+  },
+  "gtdp": {
+    "name": "Gutermann Mara 70",
+    "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/gutermann-mara-70-poly-wrapped-poly-core-thread-tex-40/#sku=",
+    "order": 2
+  },
+  "jtd": {
+    "name": "Perform-X Tex 60",
+    "link": "https://www.wawak.com/thread/thread-by-use/top-stitch/perform-x-cotton-wrapped-poly-core-thread-tex-60/#sku=",
+    "order": 3
+  },
+  "spt": {
+    "name": "Coats & Clark S910 Dual Duty XP",
+    "link": "https://www.wawak.com/thread/thread-by-use/all-purpose/coatsclark-s910s930-dual-duty-xp-all-purpose-poly-wrapped-poly-core-thread-tex-30/#sku=",
+    "order": 4
+  }
+}

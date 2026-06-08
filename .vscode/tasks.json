@@ -2,19 +2,19 @@
   "version": "2.0.0",
   "tasks": [
     {
-      "label": "Start Wrangler Dev",
+      "label": "Start Astro dev",
       "type": "shell",
-      "command": "pnpm wrangler dev",
+      "command": "pnpm astro dev",
       "isBackground": true,
       "problemMatcher": {
-        "owner": "wrangler",
+        "owner": "astro",
         "pattern": {
           "regexp": "^$"
         },
         "background": {
           "activeOnStart": true,
-          "beginsPattern": "^.*wrangler dev.*$",
-          "endsPattern": "\\[wrangler:info\\] Ready on"
+          "beginsPattern": "[vite] connected.",
+          "endsPattern": "^.*Local.*$"
         }
       },
       "presentation": {

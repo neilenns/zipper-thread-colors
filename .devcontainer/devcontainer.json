@@ -2,9 +2,23 @@
 // README at: https://github.com/devcontainers/templates/tree/main/src/alpine
 {
   "name": "Zipper thread colors",
-  "dockerComposeFile": "docker-compose.yaml",
-  "service": "app",
+  "image": "mcr.microsoft.com/devcontainers/typescript-node",
   "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
+  "containerEnv": { "PNPM_STORE": "/pnpm-store" },
+  "mounts": [
+    {
+      "source": "pnpm-store-devcontainer",
+      "target": "/pnpm-store",
+      "type": "volume"
+    }
+  ],
+  "portsAttributes": {
+    "4321": {
+      "label": "Application",
+      "onAutoForward": "openPreview"
+    }
+  },
+  "forwardPorts": [4321],
   "customizations": {
     "vscode": {
       "extensions": [
@@ -15,7 +29,8 @@
         "antfu.file-nesting",
         "github.vscode-github-actions",
         "ms-vscode-remote.remote-containers",
-        "Jacano.vscode-pnpm"
+        "Jacano.vscode-pnpm",
+        "astro-build.astro-vscode"
       ]
     }
   },

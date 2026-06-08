@@ -1,0 +1,31 @@
+---
+import { getEntry } from "astro:content";
+import Card from "@components/Card.astro";
+
+interface Props {
+  threadId: string;
+  colorCode?: string;
+}
+
+const { threadId, colorCode } = Astro.props;
+const thread = colorCode ? await getEntry("threads", threadId) : null;
+---
+
+<style>
+  td {
+    text-align: center;
+  }
+</style>
+
+{
+  colorCode ? (
+    <Card
+      altText={colorCode.toUpperCase()}
+      label={colorCode.toUpperCase()}
+      image={`/images/${threadId}/${colorCode}.webp`}
+      link={`${thread?.data.link ?? ""}${colorCode}`}
+    />
+  ) : (
+    <td>—</td>
+  )
+}

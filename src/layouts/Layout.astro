@@ -1,0 +1,97 @@
+<!doctype html>
+<style is:global>
+  :root {
+    --bg: #f6f7fb;
+    --surface: #ffffff;
+    --border: #d8dee9;
+    --text: #1a202c;
+    --muted: #64748b;
+    --accent: #2563eb;
+    --shadow: 0 12px 30px rgba(15, 23, 42, 0.08);
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  body {
+    margin: 0;
+    font-family:
+      Inter,
+      system-ui,
+      -apple-system,
+      BlinkMacSystemFont,
+      "Segoe UI",
+      sans-serif;
+    color: var(--text);
+    background: linear-gradient(180deg, #eef2ff 0%, var(--bg) 100%);
+    min-height: 100vh;
+  }
+
+  .page {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 32px 24px 48px;
+  }
+
+  .cell-header {
+    font-weight: 600;
+    color: var(--text);
+  }
+
+  .meta {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+
+  .meta strong {
+    font-size: 0.95rem;
+    color: var(--text);
+  }
+
+  .meta a {
+    color: var(--accent);
+    text-decoration: none;
+    font-size: 0.88rem;
+  }
+
+  .meta a:hover {
+    text-decoration: underline;
+  }
+</style>
+
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>YKK zipper color to matching thread color selection guide</title>
+    <meta
+      name="description"
+      content="YKK zipper color to matching thread color selection, based on Wawak's guide."
+    />
+    <meta property="og:title" content="YKK zippers to thread colors" />
+    <meta
+      property="og:description"
+      content="YKK zipper color to matching thread color selection, based on Wawak's guide."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="YKK zippers to thread colors" />
+    <meta property="og:image" content="images/zippers/nz2524021.webp" />
+    <meta property="og:image:alt" content="A cranberry YKK zipper" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Zipper to Thread Mappings" />
+    <meta
+      name="twitter:description"
+      content="YKK zipper color to matching thread color selection, based on Wawak's guide."
+    />
+    <meta name="twitter:image" content="images/zippers/nz2524021.webp" />
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+  </head><body>
+    <slot />
+  </body>
+</html>

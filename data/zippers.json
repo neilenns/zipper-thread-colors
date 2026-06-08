@@ -1,0 +1,368 @@
+{
+  "bz526wh": {
+    "color": "White/501",
+    "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526wh",
+    "image": "/images/zippers/bz526wh.webp",
+    "order": 0
+  },
+  "bz526na": {
+    "color": "Natural/801",
+    "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526na",
+    "image": "/images/zippers/bz526na.webp",
+    "order": 1
+  },
+  "bz526be": {
+    "color": "Beige/572",
+    "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526be",
+    "image": "/images/zippers/bz526be.webp",
+    "order": 2
+  },
+  "bz526ca": {
+    "color": "Camel/007",
+    "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526ca",
+    "image": "/images/zippers/bz526ca.webp",
+    "order": 3
+  },
+  "bz526ye": {
+    "color": "Yellow/503",
+    "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526ye",
+    "image": "/images/zippers/bz526ye.webp",
+    "order": 4
+  },
+  "bz526or": {
+    "color": "Orange/849",
+    "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526or",
+    "image": "/images/zippers/bz526or.webp",
+    "order": 5
+  },
+  "bz526ru": {
+    "color": "Rust/073",
+    "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526ru",
+    "image": "/images/zippers/bz526ru.webp",
+    "order": 6
+  },
+  "bz526pk": {
+    "color": "Pink/512",
+    "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526pk",
+    "image": "/images/zippers/bz526pk.webp",
+    "order": 7
+  },
+  "bz526re": {
+    "color": "Red/519",
+    "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526re",
+    "image": "/images/zippers/bz526re.webp",
+    "order": 8
+  },
+  "bz526wi": {
+    "color": "Wine/527",
+    "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526wi",
+    "image": "/images/zippers/bz526wi.webp",
+    "order": 9
+  },
+  "bz526lgn": {
+    "color": "Light Green/874",
+    "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526lgn",
+    "image": "/images/zippers/bz526lgn.webp",
+    "order": 10
+  },
+  "bz526gn": {
+    "color": "Green/530",
+    "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526gn",
+    "image": "/images/zippers/bz526gn.webp",
+    "order": 11
+  },
+  "bz526ag": {
+    "color": "Army Green/566",
+    "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526ag",
+    "image": "/images/zippers/bz526ag.webp",
+    "order": 12
+  },
+  "bz526lb": {
+    "color": "Light Blue/542",
+    "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526lb",
+    "image": "/images/zippers/bz526lb.webp",
+    "order": 13
+  },
+  "bz526ro": {
+    "color": "Royal Blue/558",
+    "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526ro",
+    "image": "/images/zippers/bz526ro.webp",
+    "order": 14
+  },
+  "bz526mb": {
+    "color": "Medium Blue/839",
+    "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526mb",
+    "image": "/images/zippers/bz526mb.webp",
+    "order": 15
+  },
+  "bz526nv": {
+    "color": "Navy/560",
+    "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526nv",
+    "image": "/images/zippers/bz526nv.webp",
+    "order": 16
+  },
+  "bz526la": {
+    "color": "Lavender/553",
+    "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526la",
+    "image": "/images/zippers/bz526la.webp",
+    "order": 17
+  },
+  "nz2524pu": {
+    "color": "Purple/559",
+    "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524pu",
+    "image": "/images/zippers/nz2524pu.webp",
+    "order": 18
+  },
+  "bz526lg": {
+    "color": "Light Grey/576",
+    "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526lg",
+    "image": "/images/zippers/bz526lg.webp",
+    "order": 19
+  },
+  "bz526mg": {
+    "color": "Med. Grey/577",
+    "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526mg",
+    "image": "/images/zippers/bz526mg.webp",
+    "order": 20
+  },
+  "bz526dg": {
+    "color": "Dark Grey/578",
+    "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526dg",
+    "image": "/images/zippers/bz526dg.webp",
+    "order": 21
+  },
+  "bz526lbr": {
+    "color": "Light Brown/563",
+    "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526lbr",
+    "image": "/images/zippers/bz526lbr.webp",
+    "order": 22
+  },
+  "bz526mbr": {
+    "color": "Med. Brown/569",
+    "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526mbr",
+    "image": "/images/zippers/bz526mbr.webp",
+    "order": 23
+  },
+  "bz526dbr": {
+    "color": "Dark Brown/868",
+    "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526dbr",
+    "image": "/images/zippers/bz526dbr.webp",
+    "order": 24
+  },
+  "bz526bk": {
+    "color": "Black/580",
+    "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526bk",
+    "image": "/images/zippers/bz526bk.webp",
+    "order": 25
+  },
+  "bz526gr": {
+    "color": "Graphite/156",
+    "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526gr",
+    "image": "/images/zippers/bz526gr.webp",
+    "order": 26
+  },
+  "bz526iv": {
+    "color": "Bridal Ivory/841",
+    "link": "https://www.wawak.com/zippers/jacket/brass/ykk-5-brass-jacket-zipper/#sku=bz526iv",
+    "image": "/images/zippers/bz526iv.webp",
+    "order": 27
+  },
+  "nz2524089": {
+    "color": "Buttercup",
+    "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524089",
+    "image": "/images/zippers/nz2524089.webp",
+    "order": 28
+  },
+  "nz2524125": {
+    "color": "Cream",
+    "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524125",
+    "image": "/images/zippers/nz2524125.webp",
+    "order": 29
+  },
+  "nz2524kh": {
+    "color": "Khaki/573",
+    "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524kh",
+    "image": "/images/zippers/nz2524kh.webp",
+    "order": 30
+  },
+  "nz2524087": {
+    "color": "Gold",
+    "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524087",
+    "image": "/images/zippers/nz2524087.webp",
+    "order": 31
+  },
+  "nz2524521": {
+    "color": "Peach",
+    "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524521",
+    "image": "/images/zippers/nz2524521.webp",
+    "order": 32
+  },
+  "nz2524274": {
+    "color": "Dusty Rose",
+    "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524274",
+    "image": "/images/zippers/nz2524274.webp",
+    "order": 33
+  },
+  "nz2524813": {
+    "color": "Salmon",
+    "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524813",
+    "image": "/images/zippers/nz2524813.webp",
+    "order": 34
+  },
+  "nz2524341": {
+    "color": "Petunia",
+    "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524341",
+    "image": "/images/zippers/nz2524341.webp",
+    "order": 35
+  },
+  "nz2524516": {
+    "color": "Hot Pink",
+    "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524516",
+    "image": "/images/zippers/nz2524516.webp",
+    "order": 36
+  },
+  "nz2524354": {
+    "color": "Watermelon",
+    "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524354",
+    "image": "/images/zippers/nz2524354.webp",
+    "order": 37
+  },
+  "nz2524820": {
+    "color": "Fire Red",
+    "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524820",
+    "image": "/images/zippers/nz2524820.webp",
+    "order": 38
+  },
+  "nz2524520": {
+    "color": "Deep Red",
+    "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524520",
+    "image": "/images/zippers/nz2524520.webp",
+    "order": 39
+  },
+  "nz2524y0997": {
+    "color": "Deep Fuschia",
+    "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524y0997",
+    "image": "/images/zippers/nz2524y0997.webp",
+    "order": 40
+  },
+  "nz2524021": {
+    "color": "Cranberry",
+    "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524021",
+    "image": "/images/zippers/nz2524021.webp",
+    "order": 41
+  },
+  "nz2524z122": {
+    "color": "Eggplant",
+    "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524z122",
+    "image": "/images/zippers/nz2524z122.webp",
+    "order": 42
+  },
+  "nz2524536": {
+    "color": "Spring Green",
+    "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524536",
+    "image": "/images/zippers/nz2524536.webp",
+    "order": 43
+  },
+  "nz2524528": {
+    "color": "Clover",
+    "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524528",
+    "image": "/images/zippers/nz2524528.webp",
+    "order": 44
+  },
+  "nz2524544": {
+    "color": "Blue Frost",
+    "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524544",
+    "image": "/images/zippers/nz2524544.webp",
+    "order": 45
+  },
+  "nz2524548": {
+    "color": "Aqua",
+    "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524548",
+    "image": "/images/zippers/nz2524548.webp",
+    "order": 46
+  },
+  "nz2524877": {
+    "color": "Jade",
+    "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524877",
+    "image": "/images/zippers/nz2524877.webp",
+    "order": 47
+  },
+  "nz2524840": {
+    "color": "Teal",
+    "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524840",
+    "image": "/images/zippers/nz2524840.webp",
+    "order": 48
+  },
+  "nz2524264": {
+    "color": "Periwinkle",
+    "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524264",
+    "image": "/images/zippers/nz2524264.webp",
+    "order": 49
+  },
+  "nz2524918": {
+    "color": "Indigo",
+    "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524918",
+    "image": "/images/zippers/nz2524918.webp",
+    "order": 50
+  },
+  "nz2524058": {
+    "color": "Midnight",
+    "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524058",
+    "image": "/images/zippers/nz2524058.webp",
+    "order": 51
+  },
+  "nz2524552": {
+    "color": "Light Lilac",
+    "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524552",
+    "image": "/images/zippers/nz2524552.webp",
+    "order": 52
+  },
+  "nz2524y0998": {
+    "color": "Lilac",
+    "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524y0998",
+    "image": "/images/zippers/nz2524y0998.webp",
+    "order": 53
+  },
+  "nz2524867": {
+    "color": "Grape",
+    "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524867",
+    "image": "/images/zippers/nz2524867.webp",
+    "order": 54
+  },
+  "nz2524303": {
+    "color": "Royal Purple",
+    "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524303",
+    "image": "/images/zippers/nz2524303.webp",
+    "order": 55
+  },
+  "nz2524029": {
+    "color": "Violet",
+    "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524029",
+    "image": "/images/zippers/nz2524029.webp",
+    "order": 56
+  },
+  "nz2524810": {
+    "color": "Gabardine",
+    "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524810",
+    "image": "/images/zippers/nz2524810.webp",
+    "order": 57
+  },
+  "nz2524568": {
+    "color": "Chocolate",
+    "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524568",
+    "image": "/images/zippers/nz2524568.webp",
+    "order": 58
+  },
+  "nz2524326": {
+    "color": "Pewter",
+    "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524326",
+    "image": "/images/zippers/nz2524326.webp",
+    "order": 59
+  },
+  "nz2524916": {
+    "color": "Charcoal",
+    "link": "https://www.wawak.com/zippers/pant-skirt-dress/nylon-coil/ykk-3-nylon-coil-non-separating-zipper/#sku=nz2524916",
+    "image": "/images/zippers/nz2524916.webp",
+    "order": 60
+  }
+}

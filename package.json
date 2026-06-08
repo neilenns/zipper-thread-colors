@@ -1,20 +1,21 @@
 {
-  "name": "threads",
-  "version": "1.0.0",
-  "description": "YKK zipper to thread colour mapping",
-  "scripts": {},
-  "keywords": [],
-  "author": "",
-  "license": "MIT",
+  "name": "zipper-color-guide",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro --host dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "astro": "^6.4.4",
+    "wrangler": "^4.98.0"
+  },
   "devEngines": {
     "packageManager": {
       "name": "pnpm",
-      "version": "^11.5.2",
-      "onFail": "download"
+      "version": "11.0.9"
     }
-  },
-  "type": "module",
-  "dependencies": {
-    "wrangler": "^4.98.0"
   }
 }

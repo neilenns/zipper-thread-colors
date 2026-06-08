@@ -1,0 +1,94 @@
+---
+import { getCollection, getEntry } from "astro:content";
+import Card from "@components/Card.astro";
+import ThreadCard from "@components/ThreadCard.astro";
+const zippers = (await getCollection("zippers")).sort(
+  (a, b) => a.data.order - b.data.order,
+);
+const threads = (await getCollection("threads")).sort(
+  (a, b) => a.data.order - b.data.order,
+);
+const rows = await Promise.all(
+  zippers.map(async (zipper) => {
+    return {
+      zipper,
+      mapping: await getEntry("colorMappings", zipper.id),
+    };
+  }),
+);
+---
+
+<style>
+  .table-wrap {
+    overflow-x: auto;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 24px;
+    box-shadow: var(--shadow);
+    padding: 16px;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    min-width: 720px;
+  }
+
+  thead th {
+    position: sticky;
+    top: 0;
+    background: #ffffff;
+    z-index: 2;
+    border-bottom: 2px solid var(--border);
+    padding: 14px 12px;
+    text-align: center;
+    color: var(--text);
+    font-size: 0.95rem;
+    letter-spacing: 0.01em;
+  }
+
+  tbody tr:nth-child(odd) {
+    background: #fafbff;
+  }
+
+  tbody tr:hover {
+    background: #eef2ff;
+  }
+
+  @media (max-width: 720px) {
+    td,
+    thead th {
+      padding: 12px 10px;
+    }
+  }
+</style>
+
+<div class="table-wrap">
+  <table>
+    <thead>
+      <tr>
+        <th>Zipper</th>
+        {threads.map((thread) => <th>{thread.data.name}</th>)}
+      </tr>
+    </thead>
+    <tbody>
+      {
+        rows.map(({ zipper, mapping }) => (
+          <tr>
+            <Card
+              label={zipper.data.color}
+              altText={zipper.data.color}
+              link={zipper.data.link}
+              image={zipper.data.image}
+            />
+            <ThreadCard threadId="gtsa" colorCode={mapping?.data.gtsa} />
+            <ThreadCard threadId="gtda" colorCode={mapping?.data.gtda} />
+            <ThreadCard threadId="gtdp" colorCode={mapping?.data.gtdp} />
+            <ThreadCard threadId="jtd" colorCode={mapping?.data.jtd} />
+            <ThreadCard threadId="spt" colorCode={mapping?.data.spt} />
+          </tr>
+        ))
+      }
+    </tbody>
+  </table>
+</div>
