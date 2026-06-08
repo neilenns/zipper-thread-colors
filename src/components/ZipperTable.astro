@@ -74,12 +74,14 @@ const rows = await Promise.all(
       {
         rows.map(({ zipper, mapping }) => (
           <tr>
-            <Card
-              label={zipper.data.color}
-              altText={zipper.data.color}
-              link={zipper.data.link}
-              image={zipper.data.image}
-            />
+            <td class="table-cell">
+              <Card
+                label={zipper.data.color}
+                altText={zipper.data.color}
+                link={zipper.data.link}
+                image={zipper.data.image}
+              />
+            </td>
             <ThreadCard threadId="gtsa" colorCode={mapping?.data.gtsa} />
             <ThreadCard threadId="gtda" colorCode={mapping?.data.gtda} />
             <ThreadCard threadId="gtdp" colorCode={mapping?.data.gtdp} />
