@@ -11,5 +11,11 @@
   "dependencies": {
     "astro": "^6.4.4",
     "wrangler": "^4.98.0"
+  },
+  "devEngines": {
+    "packageManager": {
+      "name": "pnpm",
+      "version": "11.0.9"
+    }
   }
 }
