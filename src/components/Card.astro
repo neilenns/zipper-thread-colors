@@ -52,12 +52,6 @@ const { label, link, image, altText } = Astro.props;
     line-height: 1.3;
   }
 
-  td {
-    padding: 14px 12px;
-    vertical-align: middle;
-    border-bottom: 1px solid var(--border);
-  }
-
   @media (max-width: 720px) {
     .image-link {
       min-height: 72px;
@@ -65,9 +59,7 @@ const { label, link, image, altText } = Astro.props;
   }
 </style>
 
-<td>
-  <a class="image-link" href={link} target="_blank" rel="noopener noreferrer">
-    <img src={image} alt={altText} loading="lazy" />
-    <div class="image-caption">{label}</div>
-  </a>
-</td>
+<a class="image-link" href={link} target="_blank" rel="noopener noreferrer">
+  <img src={image} alt={altText} loading="lazy" />
+  <div class="image-caption">{label}</div>
+</a>

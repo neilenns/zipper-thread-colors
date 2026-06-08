@@ -56,7 +56,6 @@ const rows = await Promise.all(
   }
 
   @media (max-width: 720px) {
-    td,
     thead th {
       padding: 12px 10px;
     }
@@ -75,17 +74,29 @@ const rows = await Promise.all(
       {
         rows.map(({ zipper, mapping }) => (
           <tr>
-            <Card
-              label={zipper.data.color}
-              altText={zipper.data.color}
-              link={zipper.data.link}
-              image={zipper.data.image}
-            />
-            <ThreadCard threadId="gtsa" colorCode={mapping?.data.gtsa} />
-            <ThreadCard threadId="gtda" colorCode={mapping?.data.gtda} />
-            <ThreadCard threadId="gtdp" colorCode={mapping?.data.gtdp} />
-            <ThreadCard threadId="jtd" colorCode={mapping?.data.jtd} />
-            <ThreadCard threadId="spt" colorCode={mapping?.data.spt} />
+            <td class="table-cell">
+              <Card
+                label={zipper.data.color}
+                altText={zipper.data.color}
+                link={zipper.data.link}
+                image={zipper.data.image}
+              />
+            </td>
+            <td class="table-cell">
+              <ThreadCard threadId="gtsa" colorCode={mapping?.data.gtsa} />
+            </td>
+            <td class="table-cell">
+              <ThreadCard threadId="gtda" colorCode={mapping?.data.gtda} />
+            </td>
+            <td class="table-cell">
+              <ThreadCard threadId="gtdp" colorCode={mapping?.data.gtdp} />
+            </td>
+            <td class="table-cell">
+              <ThreadCard threadId="jtd" colorCode={mapping?.data.jtd} />
+            </td>
+            <td class="table-cell">
+              <ThreadCard threadId="spt" colorCode={mapping?.data.spt} />
+            </td>
           </tr>
         ))
       }
