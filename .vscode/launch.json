@@ -5,8 +5,8 @@
       "name": "Launch Edge (Wrangler)",
       "type": "msedge",
       "request": "launch",
-      "url": "http://127.0.0.1:8787",
-      "preLaunchTask": "Start Wrangler Dev",
+      "url": "http://localhost:4321/",
+      "preLaunchTask": "Start Astro dev",
       "webRoot": "${workspaceFolder}",
       "presentation": {
         "hidden": false,

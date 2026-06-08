@@ -1,0 +1,145 @@
+---
+import { getCollection, getEntry } from "astro:content";
+import Card from "@components/Card.astro";
+import ThreadCard from "@components/ThreadCard.astro";
+const zippers = (await getCollection("zippers")).sort(
+  (a, b) => a.data.order - b.data.order,
+);
+const threads = (await getCollection("threads")).sort(
+  (a, b) => a.data.order - b.data.order,
+);
+const rows = await Promise.all(
+  zippers.map(async (zipper) => {
+    return {
+      zipper,
+      mapping: await getEntry("colorMappings", zipper.id),
+    };
+  }),
+);
+---
+
+<style>
+  .table-wrap {
+    overflow-x: auto;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 24px;
+    box-shadow: var(--shadow);
+    padding: 16px;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    min-width: 720px;
+  }
+
+  thead th {
+    position: sticky;
+    top: 0;
+    background: #ffffff;
+    z-index: 2;
+    border-bottom: 2px solid var(--border);
+    padding: 14px 12px;
+    text-align: center;
+    color: var(--text);
+    font-size: 0.95rem;
+    letter-spacing: 0.01em;
+  }
+
+  tbody tr:nth-child(odd) {
+    background: #fafbff;
+  }
+
+  tbody tr:hover {
+    background: #eef2ff;
+  }
+
+  @media (max-width: 720px) {
+    td,
+    thead th {
+      padding: 12px 10px;
+    }
+  }
+
+  .image-link {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    min-height: 88px;
+    padding: 8px;
+    border-radius: 18px;
+    background: #f8fafc;
+    border: 1px solid rgba(100, 116, 139, 0.12);
+    transition:
+      transform 0.2s ease,
+      border-color 0.2s ease,
+      box-shadow 0.2s ease;
+    text-decoration: none;
+  }
+
+  .image-link:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 12px 24px rgba(37, 99, 235, 0.12);
+    border-color: rgba(37, 99, 235, 0.18);
+  }
+
+  .image-link img {
+    max-width: 160px;
+    max-height: 160px;
+    object-fit: contain;
+    border-radius: 12px;
+  }
+
+  .image-caption {
+    margin-top: 10px;
+    font-size: 0.9rem;
+    color: var(--text);
+    text-align: center;
+    line-height: 1.3;
+  }
+
+  td {
+    padding: 14px 12px;
+    vertical-align: middle;
+    border-bottom: 1px solid var(--border);
+  }
+
+  @media (max-width: 720px) {
+    .image-link {
+      min-height: 72px;
+    }
+  }
+</style>
+
+<div class="table-wrap">
+  <table>
+    <thead>
+      <tr>
+        <th>Zipper</th>
+        {threads.map((thread) => <th>{thread.data.name}</th>)}
+      </tr>
+    </thead>
+    <tbody>
+      {
+        rows.map(({ zipper, mapping }) => (
+          <tr>
+            <Card
+              label={zipper.data.color}
+              altText={zipper.data.color}
+              link={zipper.data.link}
+              image={zipper.data.image}
+            />
+            <ThreadCard threadId="gtsa" colorCode={mapping?.data.gtsa} />
+            <ThreadCard threadId="gtda" colorCode={mapping?.data.gtda} />
+            <ThreadCard threadId="gtdp" colorCode={mapping?.data.gtdp} />
+            <ThreadCard threadId="jtd" colorCode={mapping?.data.jtd} />
+            <ThreadCard threadId="spt" colorCode={mapping?.data.spt} />
+          </tr>
+        ))
+      }
+    </tbody>
+  </table>
+</div>

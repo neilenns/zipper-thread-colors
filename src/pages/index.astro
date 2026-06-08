@@ -1,0 +1,44 @@
+---
+import Layout from "../layouts/Layout.astro";
+import ZipperTable from "@components/ZipperTable.astro";
+---
+
+<style>
+  header {
+    text-align: center;
+    margin-bottom: 24px;
+  }
+
+  header h1 {
+    margin: 0;
+    font-size: clamp(2rem, 2.5vw, 3rem);
+    letter-spacing: -0.04em;
+  }
+
+  header p {
+    margin: 12px auto 0;
+    max-width: 760px;
+    color: var(--muted);
+    line-height: 1.7;
+  }
+</style>
+
+<Layout>
+  <div id="container" class="page">
+    <header>
+      <h1>YKK zipper color to matching thread color selection guide</h1>
+      <p>
+        Based on the
+        <a
+          href="https://www.wawak.com/490246/globalassets/documents/waw_pim/nz3/zipper-to-thread-color-selection-guide"
+          >Wawak guide of the same name</a
+        >, but in a more visual form.
+      </p>
+      <p>
+        All images are hyperlinks to the matching product on Wawak or 123Stitch.
+      </p>
+    </header>
+
+    <main><ZipperTable /></main>
+  </div>
+</Layout>

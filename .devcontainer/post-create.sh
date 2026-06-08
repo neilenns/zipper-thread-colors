@@ -5,6 +5,11 @@ set -euo pipefail
 # All paths need to be made absolute since it runs in the context of a devcontainer.
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
+### Node.js setup
+
+echo "⬇️ Configuring node..."
+. "${NVM_DIR}/nvm.sh" && nvm install && corepack install
+
 ### pnpm setup
 
 echo "🔓 Fixing permissions of ${PNPM_STORE}..."

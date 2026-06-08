@@ -1,20 +1,21 @@
 {
   "cSpell.words": [
-    "agnoster",
+    "badcasserole",
+    "colormappings",
+    "emdash",
     "gtda",
     "gtdp",
     "gtsa",
     "Gutermann",
-    "joedmck",
-    "joshuanianji",
-    "neilenns",
-    "pnpx",
-    "stuartleeks",
-    "Wawak"
+    "nvmrc",
+    "Segoe",
+    "Wawak",
+    "webp"
   ],
   "files.exclude": {
     "**/.git": true,
     "**/node_modules": true,
-    "**/.wrangler": true
+    "**/.wrangler": true,
+    "**/.astro": true
   }
 }

@@ -1,0 +1,205 @@
+{
+  "bz526wh": {
+    "gtsa": "020",
+    "gtda": "gtda800",
+    "gtdp": "gtdp800",
+    "jtd": "jtd20wh",
+    "spt": "spt60075"
+  },
+  "bz526na": {
+    "gtsa": "030",
+    "gtda": "gtda169",
+    "gtdp": "gtdp169",
+    "jtd": "jtd20na"
+  },
+  "bz526be": { "gtda": "gtda208", "gtdp": "gtdp208" },
+  "bz526ca": {
+    "gtsa": "548",
+    "gtda": "gtda180",
+    "gtdp": "gtdp180",
+    "jtd": "jtd20lbr",
+    "spt": "spt68730"
+  },
+  "bz526ye": { "gtda": "gtda3897", "gtdp": "gtdp3897", "jtd": "jtd20ye" },
+  "bz526or": {
+    "gtsa": "470",
+    "gtda": "gtda351",
+    "gtdp": "gtdp351",
+    "jtd": "jtd20or",
+    "spt": "spt67630"
+  },
+  "bz526ru": {
+    "gtsa": "436",
+    "gtda": "gtda368",
+    "gtdp": "gtdp368",
+    "jtd": "jtd20re",
+    "spt": "spt62680"
+  },
+  "bz526pk": { "gtdp": "gtdp1452", "jtd": "jtd20pk", "spt": "spt61210" },
+  "bz526re": {
+    "gtsa": "435",
+    "gtda": "gtda367",
+    "gtdp": "gtdp367",
+    "jtd": "jtd20re",
+    "spt": "spt62250"
+  },
+  "bz526wi": {
+    "gtsa": "450",
+    "gtda": "gtda369",
+    "gtdp": "gtdp369",
+    "spt": "spt62820"
+  },
+  "bz526lgn": { "gtdp": "gtdp4061", "spt": "spt66270" },
+  "bz526gn": { "gtsa": "794", "gtda": "gtda472", "gtdp": "gtdp472" },
+  "bz526ag": {
+    "gtsa": "766",
+    "gtda": "gtda269",
+    "gtdp": "gtdp269",
+    "jtd": "jtd20mog",
+    "spt": "spt66340"
+  },
+  "bz526lb": {
+    "gtda": "gtda6227",
+    "gtdp": "gtdp6227",
+    "jtd": "jtd20lb",
+    "spt": "spt64320"
+  },
+  "bz526ro": {
+    "gtsa": "266",
+    "gtda": "gtda309",
+    "gtdp": "gtdp309",
+    "jtd": "jtd20ro"
+  },
+  "bz526mb": {
+    "gtsa": "275",
+    "gtda": "gtda13",
+    "gtdp": "gtdp13",
+    "jtd": "jtd20mb"
+  },
+  "bz526nv": {
+    "gtsa": "280",
+    "gtda": "gtda665",
+    "gtdp": "gtdp665",
+    "jtd": "jtd20nv",
+    "spt": "spt64900"
+  },
+  "bz526la": { "gtsa": "925", "gtda": "gtda391", "gtdp": "gtdp391" },
+  "nz2524pu": { "gtsa": "945", "gtda": "gtda810", "gtdp": "gtdp810" },
+  "bz526lg": { "gtda": "gtda493", "gtdp": "gtdp493", "jtd": "jtd20slg" },
+  "bz526mg": { "gtdp": "gtdp2738", "jtd": "jtd20mg", "spt": "spt60630" },
+  "bz526dg": {
+    "gtda": "gtda141",
+    "gtdp": "gtdp141",
+    "jtd": "jtd20dg",
+    "spt": "spt60620"
+  },
+  "bz526lbr": {
+    "gtda": "gtda252",
+    "gtdp": "gtdp252",
+    "jtd": "jtd20lbr",
+    "spt": "spt68360"
+  },
+  "bz526mbr": { "gtda": "gtda1213", "gtdp": "gtdp1213", "jtd": "jtd20dbr" },
+  "bz526dbr": { "gtda": "gtda682", "gtdp": "gtdp682", "jtd": "jtd20dbr" },
+  "bz526bk": {
+    "gtda": "gtda1274",
+    "gtdp": "gtdp1274",
+    "jtd": "jtd20bk",
+    "spt": "spt60850"
+  },
+  "bz526gr": { "gtda": "gtda1254", "gtdp": "gtdp1254", "jtd": "jtd20bk" },
+  "bz526iv": {
+    "gtda": "gtda4567",
+    "gtdp": "gtdp4567",
+    "jtd": "jtd20wh",
+    "spt": "spt60150"
+  },
+  "nz2524089": { "gtdp": "gtdp488", "jtd": "jtd20ye", "spt": "spt67250" },
+  "nz2524125": { "gtdp": "gtdp2507", "jtd": "jtd20cr", "spt": "spt67410" },
+  "nz2524kh": {
+    "gtda": "gtda160",
+    "gtdp": "gtdp160",
+    "jtd": "jtd20ga",
+    "spt": "spt68720"
+  },
+  "nz2524087": { "gtdp": "gtdp1336", "jtd": "jtd20lgo", "spt": "spt68140" },
+  "nz2524521": { "gtdp": "gtdp587" },
+  "nz2524274": { "gtsa": "357", "gtda": "gtda991", "gtdp": "gtdp991" },
+  "nz2524813": { "gtsa": "352", "gtda": "gtda80", "gtdp": "gtdp80" },
+  "nz2524341": { "gtdp": "gtdp2355", "jtd": "jtd20dpk" },
+  "nz2524516": {
+    "gtsa": "345",
+    "gtda": "gtda382",
+    "gtdp": "gtdp382",
+    "jtd": "jtd20dpk",
+    "spt": "spt61850"
+  },
+  "nz2524354": { "gtdp": "gtdp4064", "spt": "spt63040" },
+  "nz2524820": {
+    "gtsa": "410",
+    "gtda": "gtda156",
+    "gtdp": "gtdp156",
+    "spt": "spt62250"
+  },
+  "nz2524520": {
+    "gtsa": "450",
+    "gtda": "gtda369",
+    "gtdp": "gtdp369",
+    "jtd": "jtd20re",
+    "spt": "spt62680"
+  },
+  "nz2524y0997": { "gtsa": "447", "gtda": "gtda517", "gtdp": "gtdp517" },
+  "nz2524021": { "gtda": "gtda5039", "gtdp": "gtdp5039", "spt": "spt62680" },
+  "nz2524z122": { "gtdp": "gtdp2762" },
+  "nz2524536": {
+    "gtsa": "720",
+    "gtda": "gtda833",
+    "gtdp": "gtdp833",
+    "spt": "spt66450"
+  },
+  "nz2524528": {
+    "gtsa": "779",
+    "gtda": "gtda920",
+    "gtdp": "gtdp920",
+    "jtd": "jtd20mog",
+    "spt": "spt66260"
+  },
+  "nz2524544": {
+    "gtsa": "618",
+    "gtda": "gtda28",
+    "gtdp": "gtdp28",
+    "spt": "spt65220"
+  },
+  "nz2524548": { "gtsa": "686", "gtdp": "gtdp55", "spt": "spt65550" },
+  "nz2524877": { "gtsa": "687", "gtda": "gtda189", "gtdp": "gtdp189" },
+  "nz2524840": { "gtsa": "638", "gtda": "gtda764", "gtdp": "gtdp764" },
+  "nz2524264": { "gtda": "gtda9679", "gtdp": "gtdp9679", "spt": "spt64230" },
+  "nz2524918": { "gtdp": "gtdp4943", "jtd": "jtd20ro", "spt": "spt64460" },
+  "nz2524058": {
+    "gtsa": "279",
+    "gtda": "gtda387",
+    "gtdp": "gtdp387",
+    "jtd": "jtd20dnv",
+    "spt": "spt64900"
+  },
+  "nz2524552": { "gtda": "gtda3904", "gtdp": "gtdp3904", "spt": "spt63620" },
+  "nz2524y0998": { "gtda": "gtda9528", "gtdp": "gtdp9528" },
+  "nz2524867": { "gtda": "gtda32", "gtdp": "gtdp32", "spt": "spt63190" },
+  "nz2524303": { "gtdp": "gtdp5117", "spt": "spt63660" },
+  "nz2524029": { "gtsa": "944", "gtdp": "gtdp463", "spt": "spt63690" },
+  "nz2524810": { "gtda": "gtda209", "gtdp": "gtdp209", "jtd": "jtd20vf" },
+  "nz2524568": {
+    "gtsa": "587",
+    "gtda": "gtda406",
+    "gtdp": "gtdp406",
+    "jtd": "jtd20dbr",
+    "spt": "spt68190"
+  },
+  "nz2524326": {
+    "gtda": "gtda799",
+    "gtdp": "gtdp799",
+    "jtd": "jtd20bk",
+    "spt": "spt60780"
+  },
+  "nz2524916": { "gtdp": "gtdp1348", "jtd": "jtd20bk", "spt": "spt60950" }
+}

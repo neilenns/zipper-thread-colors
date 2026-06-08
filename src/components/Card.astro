@@ -1,0 +1,17 @@
+---
+interface Props {
+  label: string;
+  link: string;
+  image: string;
+  altText: string;
+}
+
+const { label, link, image, altText } = Astro.props;
+---
+
+<td>
+  <a class="image-link" href={link} target="_blank" rel="noopener noreferrer">
+    <img src={image} alt={altText} loading="lazy" />
+    <div class="image-caption">{label}</div>
+  </a>
+</td>
