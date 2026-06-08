@@ -82,11 +82,21 @@ const rows = await Promise.all(
                 image={zipper.data.image}
               />
             </td>
-            <ThreadCard threadId="gtsa" colorCode={mapping?.data.gtsa} />
-            <ThreadCard threadId="gtda" colorCode={mapping?.data.gtda} />
-            <ThreadCard threadId="gtdp" colorCode={mapping?.data.gtdp} />
-            <ThreadCard threadId="jtd" colorCode={mapping?.data.jtd} />
-            <ThreadCard threadId="spt" colorCode={mapping?.data.spt} />
+            <td class="table-cell">
+              <ThreadCard threadId="gtsa" colorCode={mapping?.data.gtsa} />
+            </td>
+            <td class="table-cell">
+              <ThreadCard threadId="gtda" colorCode={mapping?.data.gtda} />
+            </td>
+            <td class="table-cell">
+              <ThreadCard threadId="gtdp" colorCode={mapping?.data.gtdp} />
+            </td>
+            <td class="table-cell">
+              <ThreadCard threadId="jtd" colorCode={mapping?.data.jtd} />
+            </td>
+            <td class="table-cell">
+              <ThreadCard threadId="spt" colorCode={mapping?.data.spt} />
+            </td>
           </tr>
         ))
       }

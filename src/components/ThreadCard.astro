@@ -20,6 +20,6 @@ const thread = colorCode ? await getEntry("threads", threadId) : null;
       link={`${thread?.data.link ?? ""}${colorCode}`}
     />
   ) : (
-    <td class="table-cell" style="text-align: center;">—</td>
+    <>—</>
   )
 }
